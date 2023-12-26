@@ -1,0 +1,49 @@
+------ Programming ------
+1. TCE(python)                                                  https://www.youtube.com/playlist?list=PL-DxAN1jsRa-VpfPWjnaN5jz_e2wM0o3V
+2. TCE(Bash)                                                    https://www.youtube.com/playlist?list=PL-DxAN1jsRa9MKIpon0ZBq_QIfMdw3cfM
+3. HackerSploit(Bash)                                           https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT
+4. Bash Bitten teach
+5. Python Bitten teach
+
+------ Basics ------
+1. TCE(network pentesting)                                      https://www.youtube.com/playlist?list=PL-DxAN1jsRa-zHjDOfbpi6OAVwpCkyRYn
+2. TCE(Reverse Engineeing)                                      https://www.youtube.com/playlist?list=PL-DxAN1jsRa9151ezNuCbh7UkGS0bMPdw
+3. TCE(Binary Exploitation)                                     https://www.youtube.com/playlist?list=PL-DxAN1jsRa9151ezNuCbh7UkGS0bMPdw
+
+------ WAPT ------
+1. Hacker Vlog (DVWA)                                           https://www.youtube.com/watch?v=IcVYyF3EEbk
+2. Web Application Pentesting (The Cyber Mentor)                https://www.youtube.com/watch?v=IcVYyF3EEbk
+3. Ethical Sharmaji (Web Application Penetration )              https://www.youtube.com/playlist?list=PLHOJoqBk02jQWQ7UMwRkAoznEzRtKI1zk
+4. drop organisation                                            https://www.youtube.com/playlist?list=PLHyL701BhV04mlcuXYq5GRxG5lYNwy3Ht
+5. PentesterLab                                                 
+6. PortSwigger                                                 
+
+------ Hacking ------
+1. The Cyber Mentor (Full-Length Hacking Courses)              https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47
+2. WsCube Tech (hacking1)                                      https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R
+3. WsCube Tech (hacking2)                                      https://www.youtube.com/watch?v=x3IwvPvDpKE&list=LL&index=3&t=36705s
+4. WsCube Tech (hacking3)                                      https://www.youtube.com/watch?v=Rgvzt0D8bR4&list=LL&index=2&t=25707s
+5. 101 Labs                                                   
+6. Bitten teach course
+7. cehv12
+8. oscp 
+
+------ BurpSuite ------
+1. Bitten Tech                                                  https://www.youtube.com/playlist?list=PLkW9FMxqUvybgx3pI9x9HyU-_HcJJFWQY
+2. Ethical sharmaji                                             https://www.youtube.com/watch?v=mK3Hr6ktgNg&t=4118s
+3. hackbin                                                      https://www.youtube.com/watch?v=eKPpGLn9G3w&t=185s
+4. david bombal                                                 https://www.youtube.com/watch?v=IWWYNDiwYOA
+
+------ API Security ------
+1. ApiSec
+
+------ CTF ------
+1. Bitten teach (THM)                                           https://www.youtube.com/playlist?list=PLkW9FMxqUvyZjyc-GrZKFDxSJ9_OMSwsu
+2. John Hammond (THM)                                           https://www.youtube.com/playlist?list=PL1H1sBF1VAKUOm3WyiZ-m2Oqwku4Xp6if
+3. CryptoCat (HTB)                                              https://www.youtube.com/playlist?list=PLHUKi1UlEgOINz5PLYb9yu7evQZ_5MQ21
+4. THM
+5. HTB
+6. VulnHub
+7. PicoCTF
+8. RootMe
+9. exploit education

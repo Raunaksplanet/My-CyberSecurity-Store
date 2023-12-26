@@ -1,0 +1,30 @@
+Question 1 Related to the cert
+Hey "uname" I recently saw that you passed [Cert Name] Examination congrats "Uname".
+I was asking that can you please answer some my questions related to the [Cert Name] Exams ?
+
+1. Did you paid for any extra training or classes for [Cert Name] cert ?, if yes please name it
+2. Did you used free resources on internet if yes please name it.
+3. How much you paid in total for this certificate, like (Training + cert)
+4. How many months you took to prepare for exam.
+5. Do you get any learning resources with [Cert Name] Examination like pdf, charts etc ?
+6. Can you please share resources with me ?
+
+
+Question 2 ctf
+Do you also play CTF ?
+
+Question 3 if yes then what platform
+Which platform generally you use to play CTF like TryHackMe, HackTheBox, Proving Grounds etc
+
+Question 4 related to the recent post
+Hey "uname", 
+I recently saw your latest post on [post topic]. Im also a [topic] enthusiast can you please tell me ......
+
+Question 5 Specific Domain in CS
+Hey "uname",
+I saw that you are also a [topic] enthusiast 
+
+or
+
+I saw that you are a [jobe role] at [comapany name] can you please guide me for [job role]. I would be a great help
+I'am handy in Linux, networking(basics), Programming(c++,java,python,php) and I also started playing CTF on tryhackme.

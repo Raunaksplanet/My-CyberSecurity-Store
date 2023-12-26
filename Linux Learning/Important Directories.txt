@@ -1,0 +1,10 @@
+1. /etc/passwd 		Registered Users
+2.     /group		All Groups List
+3.     /sudoers		Super Users List
+4.     /shadow		Encrypted pass of users
+5.     /hosts		Host Info
+6.     /enviroment	Enviroment Variables
+7.     /apache2		apache2 server config
+
+8. /usr/share/wordlists	
+9. /usr/share/wordlists/seclists

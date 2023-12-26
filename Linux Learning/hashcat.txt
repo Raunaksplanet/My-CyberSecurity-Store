@@ -1,0 +1,14 @@
+'''''
+HashCat Commands
+'''''
+
+--- HashCat Command Format ---
+    hashcat -m # <actual-hash> <wordlists-full-path>
+eg: hashcat -m 0 5d41402abc4b2a76b9719d911017c592 /usr/share/wordlists/rockyou.txt 
+
+
+--- Cracking Linux Hash ---
+
+
+-Note
+hashid tool can be use to know the type of hash we have 
