@@ -1,49 +1,63 @@
------- Programming ------
-1. TCE(python)                                                  https://www.youtube.com/playlist?list=PL-DxAN1jsRa-VpfPWjnaN5jz_e2wM0o3V
-2. TCE(Bash)                                                    https://www.youtube.com/playlist?list=PL-DxAN1jsRa9MKIpon0ZBq_QIfMdw3cfM
-3. HackerSploit(Bash)                                           https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT
-4. Bash Bitten teach
-5. Python Bitten teach
+------ Hacking ------
+1. The Cyber Mentor (Full-Length Hacking Courses)         https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47
 
 ------ Basics ------
-1. TCE(network pentesting)                                      https://www.youtube.com/playlist?list=PL-DxAN1jsRa-zHjDOfbpi6OAVwpCkyRYn
-2. TCE(Reverse Engineeing)                                      https://www.youtube.com/playlist?list=PL-DxAN1jsRa9151ezNuCbh7UkGS0bMPdw
-3. TCE(Binary Exploitation)                                     https://www.youtube.com/playlist?list=PL-DxAN1jsRa9151ezNuCbh7UkGS0bMPdw
+1. TCE(Binary Exploitation)                               https://www.youtube.com/playlist?list=PL-DxAN1jsRa9151ezNuCbh7UkGS0bMPdw
+
+------ Extra Knowledge ------
+1. Davif Bombal Podcast                                   https://www.youtube.com/playlist?list=PLhfrWIlLOoKP14oFy1o-xJ6lBmkqrxWx1
+2. techChip OSINT                                         https://www.youtube.com/playlist?list=PL0fjgIGwLMWQDNiizQiN3GDh7Uxcttntf
+3. Linuxndroid Issues Found                               https://www.youtube.com/playlist?list=PLwFiitb6xCxK4LFJ4Y_C_3FioxrEbNIZA
+4. Linuxndroid Bug Bounty                                 https://www.youtube.com/playlist?list=PLwFiitb6xCxLyrEB2WnvdCeu3h4D7iuW6
 
 ------ WAPT ------
-1. Hacker Vlog (DVWA)                                           https://www.youtube.com/watch?v=IcVYyF3EEbk
-2. Web Application Pentesting (The Cyber Mentor)                https://www.youtube.com/watch?v=IcVYyF3EEbk
-3. Ethical Sharmaji (Web Application Penetration )              https://www.youtube.com/playlist?list=PLHOJoqBk02jQWQ7UMwRkAoznEzRtKI1zk
-4. drop organisation                                            https://www.youtube.com/playlist?list=PLHyL701BhV04mlcuXYq5GRxG5lYNwy3Ht
+1. Hacker Vlog (DVWA)                                     https://www.youtube.com/watch?v=IcVYyF3EEbk
+2. Web Application Pentesting (The Cyber Mentor)          https://www.youtube.com/watch?v=IcVYyF3EEbk
+3. Ethical Sharmaji (Web Application Penetration )        https://www.youtube.com/playlist?list=PLHOJoqBk02jQWQ7UMwRkAoznEzRtKI1zk
 5. PentesterLab                                                 
-6. PortSwigger                                                 
-
------- Hacking ------
-1. The Cyber Mentor (Full-Length Hacking Courses)              https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47
-2. WsCube Tech (hacking1)                                      https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R
-3. WsCube Tech (hacking2)                                      https://www.youtube.com/watch?v=x3IwvPvDpKE&list=LL&index=3&t=36705s
-4. WsCube Tech (hacking3)                                      https://www.youtube.com/watch?v=Rgvzt0D8bR4&list=LL&index=2&t=25707s
-5. 101 Labs                                                   
-6. Bitten teach course
-7. cehv12
-8. oscp 
+6. PortSwigger
+7. THM (JuiceShop, WebGoat, DVWA, JuicyDetils)                                                 
 
 ------ BurpSuite ------
-1. Bitten Tech                                                  https://www.youtube.com/playlist?list=PLkW9FMxqUvybgx3pI9x9HyU-_HcJJFWQY
-2. Ethical sharmaji                                             https://www.youtube.com/watch?v=mK3Hr6ktgNg&t=4118s
-3. hackbin                                                      https://www.youtube.com/watch?v=eKPpGLn9G3w&t=185s
-4. david bombal                                                 https://www.youtube.com/watch?v=IWWYNDiwYOA
+1. Bitten Tech                                            https://www.youtube.com/playlist?list=PLkW9FMxqUvybgx3pI9x9HyU-_HcJJFWQY
+2. Ethical sharmaji                                       https://www.youtube.com/watch?v=mK3Hr6ktgNg&t=4118s
+3. hackbin                                                https://www.youtube.com/watch?v=eKPpGLn9G3w&t=185s
+4. david bombal                                           https://www.youtube.com/watch?v=IWWYNDiwYOA
+5. PortSwigger1                                           https://www.youtube.com/playlist?list=PLoX0sUafNGbEXtfr-f4n0g4AqzU-CDvcQ
+6. PortSwigger2                                           https://www.youtube.com/playlist?list=PLSbrmTUy4daN1ep7pkBZw4PRRmx7F0EaS
+7. Cyber World Hindi                                      https://www.youtube.com/playlist?list=PLSbrmTUy4daN1ep7pkBZw4PRRmx7F0EaS
+8. Cyberwings Security                                    https://www.youtube.com/playlist?list=PLa2xctTiNSCjVzFfxTn_UKkd-sS34EQaF
+9. Technical MotaBhai                                     https://www.youtube.com/playlist?list=PLBCWFgREB971jxEXKbiAZSNQZqIxH9L47
 
 ------ API Security ------
 1. ApiSec
 
 ------ CTF ------
-1. Bitten teach (THM)                                           https://www.youtube.com/playlist?list=PLkW9FMxqUvyZjyc-GrZKFDxSJ9_OMSwsu
-2. John Hammond (THM)                                           https://www.youtube.com/playlist?list=PL1H1sBF1VAKUOm3WyiZ-m2Oqwku4Xp6if
-3. CryptoCat (HTB)                                              https://www.youtube.com/playlist?list=PLHUKi1UlEgOINz5PLYb9yu7evQZ_5MQ21
+3. CryptoCat (HTB)                                        https://www.youtube.com/playlist?list=PLHUKi1UlEgOINz5PLYb9yu7evQZ_5MQ21
 4. THM
 5. HTB
 6. VulnHub
 7. PicoCTF
 8. RootMe
 9. exploit education
+9. over the wire
+
+
+------ Job ------
+1. Java                                                 https://github.com/Raunaksplanet/Java-Series
+                                                        https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q
+                                                        https://www.geeksforgeeks.org/java-tutorial/  
+                                                        https://www.geeksforgeeks.org/java-interview-questions/
+                                                        
+2. HTML, Courses                                        https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD
+                                                        https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w
+                                                        https://www.youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i
+                                                        https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n
+
+3. SQL                                                  https://www.youtube.com/watch?v=hlGoQC332VM&list=LL&index=8&t=2s
+                                                        https://www.youtube.com/watch?v=5OdVJbNCSso&t=1s
+                                                        https://www.youtube.com/watch?v=HXV3zeQKqGY
+
+4. DBMS                                                 https://www.youtube.com/watch?v=dl00fOOYLOM&list=LL&index=9
+
+5. Operating Systems                                    https://www.youtube.com/watch?v=3obEP8eLsCw&list=LL&index=10&t=1167s
