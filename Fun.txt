@@ -1,0 +1,1 @@
+1. Auto Logging out from google id: https://accounts.google.com/Logout?ec=1 
