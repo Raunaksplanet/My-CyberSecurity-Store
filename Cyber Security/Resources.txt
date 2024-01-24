@@ -1,33 +1,12 @@
------- Hacking ------
-1. The Cyber Mentor (Full-Length Hacking Courses)         https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47
-
 ------ Basics ------
 1. TCE(Binary Exploitation)                               https://www.youtube.com/playlist?list=PL-DxAN1jsRa9151ezNuCbh7UkGS0bMPdw
-
------- Extra Knowledge ------
-1. Davif Bombal Podcast                                   https://www.youtube.com/playlist?list=PLhfrWIlLOoKP14oFy1o-xJ6lBmkqrxWx1
-2. techChip OSINT                                         https://www.youtube.com/playlist?list=PL0fjgIGwLMWQDNiizQiN3GDh7Uxcttntf
-3. Linuxndroid Issues Found                               https://www.youtube.com/playlist?list=PLwFiitb6xCxK4LFJ4Y_C_3FioxrEbNIZA
-4. Linuxndroid Bug Bounty                                 https://www.youtube.com/playlist?list=PLwFiitb6xCxLyrEB2WnvdCeu3h4D7iuW6
+2. Wireshark                                              https://www.youtube.com/playlist?list=PL_o0Qzu-8MKhg6co37kssx6lRdQ4o1YpX
+                                                          https://www.youtube.com/playlist?list=PLsd7lkkL5kOcZWueLys4feZOLM7iLaGtL
 
 ------ WAPT ------
-1. Hacker Vlog (DVWA)                                     https://www.youtube.com/watch?v=IcVYyF3EEbk
-2. Web Application Pentesting (The Cyber Mentor)          https://www.youtube.com/watch?v=IcVYyF3EEbk
-3. Ethical Sharmaji (Web Application Penetration )        https://www.youtube.com/playlist?list=PLHOJoqBk02jQWQ7UMwRkAoznEzRtKI1zk
 5. PentesterLab                                                 
 6. PortSwigger
 7. THM (JuiceShop, WebGoat, DVWA, JuicyDetils)                                                 
-
------- BurpSuite ------
-1. Bitten Tech                                            https://www.youtube.com/playlist?list=PLkW9FMxqUvybgx3pI9x9HyU-_HcJJFWQY
-2. Ethical sharmaji                                       https://www.youtube.com/watch?v=mK3Hr6ktgNg&t=4118s
-3. hackbin                                                https://www.youtube.com/watch?v=eKPpGLn9G3w&t=185s
-4. david bombal                                           https://www.youtube.com/watch?v=IWWYNDiwYOA
-5. PortSwigger1                                           https://www.youtube.com/playlist?list=PLoX0sUafNGbEXtfr-f4n0g4AqzU-CDvcQ
-6. PortSwigger2                                           https://www.youtube.com/playlist?list=PLSbrmTUy4daN1ep7pkBZw4PRRmx7F0EaS
-7. Cyber World Hindi                                      https://www.youtube.com/playlist?list=PLSbrmTUy4daN1ep7pkBZw4PRRmx7F0EaS
-8. Cyberwings Security                                    https://www.youtube.com/playlist?list=PLa2xctTiNSCjVzFfxTn_UKkd-sS34EQaF
-9. Technical MotaBhai                                     https://www.youtube.com/playlist?list=PLBCWFgREB971jxEXKbiAZSNQZqIxH9L47
 
 ------ API Security ------
 1. ApiSec
@@ -43,21 +22,21 @@
 9. over the wire
 
 
------- Job ------
-1. Java                                                 https://github.com/Raunaksplanet/Java-Series
-                                                        https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q
-                                                        https://www.geeksforgeeks.org/java-tutorial/  
-                                                        https://www.geeksforgeeks.org/java-interview-questions/
-                                                        
-2. HTML, Courses                                        https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD
+------ Job ------                                       
+1. HTML, Courses                                        https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD
                                                         https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w
                                                         https://www.youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i
                                                         https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n
-
-3. SQL                                                  https://www.youtube.com/watch?v=hlGoQC332VM&list=LL&index=8&t=2s
-                                                        https://www.youtube.com/watch?v=5OdVJbNCSso&t=1s
-                                                        https://www.youtube.com/watch?v=HXV3zeQKqGY
-
-4. DBMS                                                 https://www.youtube.com/watch?v=dl00fOOYLOM&list=LL&index=9
-
-5. Operating Systems                                    https://www.youtube.com/watch?v=3obEP8eLsCw&list=LL&index=10&t=1167s
+                                                        
+2. DBMS                                                 https://www.youtube.com/watch?v=dl00fOOYLOM&list=LL&index=9
+3. Operating Systems                                    https://www.youtube.com/watch?v=3obEP8eLsCw&list=LL&index=10&t=1167s
+4. Math 
+    6.1 Class 9  6 chapter
+    6.2 Class 10 15 chapter
+    6.3 class 11 16 chapter
+    6.4 class 12 13 chapter
+    6.7 SSC Math
+5. Books 
+    5.1 Self Help  4
+    5.2            25
+6. Access Learning
