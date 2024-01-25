@@ -1,0 +1,42 @@
+------ Basics ------
+1. TCE(Binary Exploitation)                               https://www.youtube.com/playlist?list=PL-DxAN1jsRa9151ezNuCbh7UkGS0bMPdw
+2. Wireshark                                              https://www.youtube.com/playlist?list=PL_o0Qzu-8MKhg6co37kssx6lRdQ4o1YpX
+                                                          https://www.youtube.com/playlist?list=PLsd7lkkL5kOcZWueLys4feZOLM7iLaGtL
+
+------ WAPT ------
+5. PentesterLab                                                 
+6. PortSwigger
+7. THM (JuiceShop, WebGoat, DVWA, JuicyDetils)                                                 
+
+------ API Security ------
+1. ApiSec
+
+------ CTF ------
+3. CryptoCat (HTB)                                        https://www.youtube.com/playlist?list=PLHUKi1UlEgOINz5PLYb9yu7evQZ_5MQ21
+4. THM
+5. HTB
+6. VulnHub
+7. PicoCTF
+8. RootMe
+9. exploit education
+9. over the wire
+
+
+------ Job ------                                       
+1. HTML, Courses                                        https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD
+                                                        https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w
+                                                        https://www.youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i
+                                                        https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n
+                                                        
+2. DBMS                                                 https://www.youtube.com/watch?v=dl00fOOYLOM&list=LL&index=9
+3. Operating Systems                                    https://www.youtube.com/watch?v=3obEP8eLsCw&list=LL&index=10&t=1167s
+4. Math 
+    6.1 Class 9  6 chapter
+    6.2 Class 10 15 chapter
+    6.3 class 11 16 chapter
+    6.4 class 12 13 chapter
+    6.7 SSC Math
+5. Books 
+    5.1 Self Help  4
+    5.2            25
+6. Access Learning
