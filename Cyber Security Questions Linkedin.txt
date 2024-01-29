@@ -35,6 +35,15 @@ My name is Raunak and I'm from Rajasthan Ajmer. Currently I'm pursuing BCA from 
 Specifically I want to know about Amity University is it good for Msc in Cyber Security ?
 Do you suggest pursuing Cyber Security degree from there ?
 
-
 Hey "NAME", my name is Raunak Gupta and I'm from Rajasthan Ajmer. I'm currently pursuing BCA from a local college, After BCA I'm looking for a college in jaipur.
 I have some doubts related to the jecrc college and mca in CyberSec Will you please answer some of my doubts ?  
+
+1. On the JECRC website I checked out the syllabus for MCA in CyberSec they mentioned that student will earn ECSS, CND, CEH, CASE all 4 certificates during the period of MCA degree, Is that true ? you'll earn all 4 certification from JECRC till you graduate ?
+
+2. In which semester you are ?
+3. so you have completed xyz certification ?
+
+4. how much you have paid for mca in total with all the expenses like hostel, food, tuition fees ?
+
+5. Do you find JECRC worth pursuing for CyberSec ? 
+6. Do they orgainse event like CTF's or hackathon or anything related to the Cyber Security ? 
