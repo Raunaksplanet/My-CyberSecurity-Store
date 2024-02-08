@@ -1,8 +1,3 @@
------- Basics ------
-1. TCE(Binary Exploitation)                               https://www.youtube.com/playlist?list=PL-DxAN1jsRa9151ezNuCbh7UkGS0bMPdw
-2. Wireshark                                              https://www.youtube.com/playlist?list=PL_o0Qzu-8MKhg6co37kssx6lRdQ4o1YpX
-                                                          https://www.youtube.com/playlist?list=PLsd7lkkL5kOcZWueLys4feZOLM7iLaGtL
-
 ------ WAPT ------
 5. PentesterLab                                                 
 6. PortSwigger
@@ -12,25 +7,57 @@
 1. ApiSec
 
 ------ CTF ------
-3. CryptoCat (HTB)                                        https://www.youtube.com/playlist?list=PLHUKi1UlEgOINz5PLYb9yu7evQZ_5MQ21
-4. THM
-5. HTB
-6. VulnHub
-7. PicoCTF
-8. RootMe
-9. exploit education
-10. over the wire
-    10.1. FormulaOne    6 
-    10.2. Leviathan     7
-    10.3. Krypton       7
-    10.4. Manpage       7
-    10.5. Behemoth      8
-    10.6. Utumno        8
-    10.7. Narnia        9
-    10.8. Maze          9
-    10.9. Drifter       15   
-    10.10. Vortex       27   
-    10.11. Natas        34  
+1. CryptoCat (HTB)                                        https://www.youtube.com/playlist?list=PLHUKi1UlEgOINz5PLYb9yu7evQZ_5MQ21
+2. THM
+    Windows
+    Active Directory
+    pcap analysis
+    Easy CTF
+    Medium CTF
+    Hard CTF
+    Special Event
+
+3. HTB
+    Hardware
+    pwn
+    Crypto
+    Web
+    Mobile
+    Reverse
+    Misc
+    Forensics
+    Osint
+    Game pwn
+    Block Chain
+
+4. PicoCTF
+    Binary exploit
+    Crypto
+    Forensics
+    Reverse Engineering
+    Web exploit
+
+5. RootMe
+    App-script
+    App-System
+    Forensics
+    Programming
+    Steagnography
+    cracking
+    Crypto analysis
+    network
+    realist
+    web-client
+    web-server
+
+6. exploit education
+    Phoneix
+    nebula
+    Fusion
+    Main sequance
+    Pro star
+
+7. Proving Grounds
 
 ------ Job ------                                       
 1. HTML, Courses                                        https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD
@@ -41,8 +68,7 @@
 2. DBMS                                                 https://www.youtube.com/watch?v=dl00fOOYLOM&list=LL&index=9
 3. Operating Systems                                    https://www.youtube.com/watch?v=3obEP8eLsCw&list=LL&index=10&t=1167s
 4. Math 
-    6.1 Class 9  6 chapter
-    6.2 Class 10 15 chapter
+    6.2 Class 10 4 chapter
     6.3 class 11 16 chapter
     6.4 class 12 13 chapter
     6.7 SSC Math
