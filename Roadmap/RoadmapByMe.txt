@@ -89,6 +89,7 @@
 
 
 Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackMe                                 https://tryhackme.com/
+									• THM All Free Labs List  		https://github.com/Raunaksplanet/THM-CTF-Time/tree/main
                                                                     • HackTheBox                                https://www.hackthebox.com/
 									• Academy				https://academy.hackthebox.com/
 									• Labs					https://app.hackthebox.com/home
