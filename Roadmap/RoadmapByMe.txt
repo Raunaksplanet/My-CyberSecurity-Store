@@ -103,6 +103,7 @@ Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackM
                                                                     • Trailhead                                 https://trailhead.salesforce.com/en/career-path/cybersecurity/
                                                                     • OverTheWire (Linux)                       https://overthewire.org/wargames/
                                                                     • CompTIA Security+ Labs                    https://www.101labs.net/comptia-security/
+								    • Exploit education  			https://exploit.education/
                                                                     • metasploitable (Linux) 
 
 
@@ -117,7 +118,9 @@ Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackM
                               • ITF+ (IT Fundamentals)
                      • EC-COUNCIL
                               • CEH (Certified Ethical hacker)
-
+		     • Ine-Security
+                              • eJPT (Junior Penetration Tester)
+			      • eWPTX (Web application Penetration Tester)
 
  
 
