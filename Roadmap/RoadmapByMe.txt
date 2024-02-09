@@ -90,6 +90,8 @@
 
 Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackMe                                 https://tryhackme.com/
                                                                     • HackTheBox                                https://www.hackthebox.com/
+									• Academy				https://academy.hackthebox.com/
+									• Labs					https://app.hackthebox.com/home
                                                                     • PicoCTF                                   https://picoctf.org/ 
                                                                     • RootMe                                    https://www.root-me.org/?page=news&lang=fr
                                                                     • VulnHub (OS Related)                      https://www.vulnhub.com/
