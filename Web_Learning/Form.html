@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Forms</title>
 </head>
+
 <body>
     <hr>
     <h1>Form 1</h1>
@@ -58,5 +60,43 @@
     </form>
 
     <hr>
+
+    <h1>Form 3</h1>
+    <form>
+        <label for="name">Name: </label>
+        <input type="text" name="name" id="name">
+        <br><br>
+        <label for="mail">Mail: </label>
+        <input type="mail" name="mail" id="mail">
+        <br><br>
+        <label for="Phone">Phone No: </label>
+        <input type="tel" name="numebr" id="number">
+        <br><br>
+        <label for="OccupationType">Occupations: </label>
+        <select name="OccupationType" id="OccupationType">
+            <option value="Student">Student</option>
+            <option value="Proffesional">Proffesional</option>
+            <option value="Others">Others</option>
+        </select>
+        <br><br>
+        <fieldset>
+            <legend>Tdopic Of Interest</legend>
+            <label for="checkbox1">HTML</label>
+            <input type="checkbox">
+
+            <label for="checkbox2">CSS</label>
+            <input type="checkbox">
+
+            <label for="checkbox3">JS</label>
+            <input type="checkbox">
+        </fieldset>
+        <br><br>
+        <label for="textarea1">Comments: </label>
+        <br>
+        <textarea name="textarea1" id="textarea1" cols="60" rows="10"></textarea>
+        <input type="button" value="Submit">
+
+    </form>
 </body>
+
 </html>
