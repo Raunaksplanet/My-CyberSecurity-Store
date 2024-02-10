@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <hr>
+    <h1>Form 1</h1>
+    <hr>
+
+    <form action="" method="get">
+        <h2>Contact Information</h2>
+        <p>Name: <input required type="text" name="name"></p>
+        <fieldset>
+            <p>
+                Male <input type="radio" name="gender" id="">
+                Female <input type="radio" name="gender" id="">
+            </p>
+        </fieldset>
+        <p>Address: <textarea name="address" id="" cols="50" rows="10"></textarea></p>
+        <p>Email: <input type="email" name="mail" id=""> </p>
+        <p>Pincode: <input type="number" name="Pincode" id=""></p>
+
+        <h1>Payment Form</h1>
+        <p>Card Type:
+            <select name="card_type" id="card_type">
+                <option value="">Select a card type</option>
+                <option value="visa">Visa</option>
+                <option value="master_card">master card</option>
+                <option value="paytm">paytm</option>
+            </select>
+        </p>
+        <input type="submit" name="Submit" id="1">
+    </form>
+
+    <hr>
+
+    <h1>Form 2</h1>
+    <form action="Basic.html" method="get">
+        <label for="email">Email: </label>
+        <input type="email" id="email" placeholder="abc@mail.com">
+        <br>
+        <label for="passwords">Passwords: </label>
+        <input type="password" id="pass" placeholder="superSecretPass">
+        <br>
+        <select name="snacks" id="selection">
+            <option value="">Select Options</option>
+            <option value="Maggie">Maggie</option>
+            <option value="Coke">Coke</option>
+            <option value="Kurkure">Kurkure</option>
+            <option value="Pasta">Pasta</option>
+            <option value="Pizza">Pizza</option>
+        </select>
+        <br>
+        <input type="submit" value="click_here">
+    </form>
+
+    <hr>
+</body>
+</html>
