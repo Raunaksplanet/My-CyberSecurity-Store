@@ -89,10 +89,9 @@
 
 
 Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackMe                                 https://tryhackme.com/
-									• THM All Free Labs List  		https://github.com/Raunaksplanet/THM-CTF-Time/tree/main
-                                                                    • HackTheBox                                https://www.hackthebox.com/
-									• Academy				https://academy.hackthebox.com/
-									• Labs					https://app.hackthebox.com/home
+									                                • THM All Free Labs List  	            	https://github.com/Raunaksplanet/THM-CTF-Time/tree/main
+									                                • HTB Academy				                https://academy.hackthebox.com/
+									                                • HTB Labs					                https://app.hackthebox.com/home
                                                                     • PicoCTF                                   https://picoctf.org/ 
                                                                     • RootMe                                    https://www.root-me.org/?page=news&lang=fr
                                                                     • VulnHub (OS Related)                      https://www.vulnhub.com/
@@ -103,7 +102,9 @@ Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackM
                                                                     • Trailhead                                 https://trailhead.salesforce.com/en/career-path/cybersecurity/
                                                                     • OverTheWire (Linux)                       https://overthewire.org/wargames/
                                                                     • CompTIA Security+ Labs                    https://www.101labs.net/comptia-security/
-								    • Exploit education  			https://exploit.education/
+								                                    • Exploit education  			            https://exploit.education/
+                                                                    • HackingHub                                https://www.hackinghub.io
+                                                                    • HBH.sh                                    https://hbh.sh/home
                                                                     • metasploitable (Linux) 
 
 
@@ -116,10 +117,10 @@ Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackM
                               • CySa+ (Cybersecurity Analyst)
                               • casp+ (Advance Security Practitioner)
                               • ITF+ (IT Fundamentals)
-                     • EC-COUNCIL
-                              • CEH (Certified Ethical hacker)
-		     • Ine-Security
-                              • eJPT (Junior Penetration Tester)
+                              • EC-COUNCIL
+                                 • CEH (Certified Ethical hacker)
+		                      • Ine-Security
+                                • eJPT (Junior Penetration Tester)
 			      • eWPTX (Web application Penetration Tester)
 
  
