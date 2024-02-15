@@ -1,23 +1,5 @@
------- WAPT ------
-5. PentesterLab                                                 
-6. PortSwigger
-7. THM (JuiceShop, WebGoat, DVWA, JuicyDetils)                                                 
-
------- API Security ------
-1. ApiSec
-
 ------ CTF ------
-1. CryptoCat (HTB)                                        https://www.youtube.com/playlist?list=PLHUKi1UlEgOINz5PLYb9yu7evQZ_5MQ21
-2. THM
-    Windows
-    Active Directory
-    pcap analysis
-    Easy CTF
-    Medium CTF
-    Hard CTF
-    Special Event
-
-3. HTB
+1. HTB
     Hardware
     pwn
     Crypto
@@ -30,14 +12,14 @@
     Game pwn
     Block Chain
 
-4. PicoCTF
+2. PicoCTF
     Binary exploit
     Crypto
     Forensics
     Reverse Engineering
     Web exploit
 
-5. RootMe
+3. RootMe
     App-script
     App-System
     Forensics
@@ -50,28 +32,64 @@
     web-client
     web-server
 
-6. exploit education
-    Phoneix
-    nebula
-    Fusion
-    Main sequance
-    Pro star
+4. PortSwigger
+    SQL Injection Labs
+    XSS Labs
+    CSRF Labs
+    Clickjacking Labs
+    DOM-based vulnerabilities Labs
+    CORS Labs
+    XXE Injection Labs
+    SSRF Labs
+    HTTP Request Smuggling Labs
+    OS Command Injection Labs
+    Server-Side Template Injection Labs
+    Directory Traversal Labs
+    Access Control Vulnerabilities Labs
+    WebSockets Labs
+    Web Cache Poisoning Labs
+    Insecure Deserialization Labs
+    Information Disclosure Labs
+    Business Logic Vulnerabilities Labs
+    HTTP Host Header Attacks Labs
+    OAuth Authentication Labs
+    File Upload Vulnerabilities Labs
+    JWT
+    Essential Skils
+    Prototype Pollution
+    GraphQL API Vulnerability
+    Race Condition
+    NoSQL Condition
+    Web Testing
+    Web LLM Attacks
 
-7. Proving Grounds
+5. hbh.sh
+    Challenges
+    Prerequisites
+    Basic Web Hacking
+    Application Cracking
+    Javascript Hacking
+    Realistic Challenges
+    Reverse Engineering
+    Rooting Challenges
+    Penetration-Testing
+    Timed Challenges
+    Decryption
+    Logical
+    Steganography
+    Tracking
+    PHP Patching
+    Application Patching
+    Social Engineering
 
------- Job ------                                       
-1. HTML, Courses                                        https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD
-                                                        https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w
-                                                        https://www.youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i
-                                                        https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n
-                                                        
-2. DBMS                                                 https://www.youtube.com/watch?v=dl00fOOYLOM&list=LL&index=9
-3. Operating Systems                                    https://www.youtube.com/watch?v=3obEP8eLsCw&list=LL&index=10&t=1167s
-4. Math 
-    6.2 Class 10 4 chapter
-    6.3 class 11 16 chapter
-    6.4 class 12 13 chapter
+6. Proving Grounds
+7. PentesterLab                                                 
+8. HackingHub
+9. APISecurity
+
+
+------ Job ------                                                                                          
+1. Math 
     6.7 SSC Math
-5. Books 
+2. Books 
     5.1            25
-6. Access Learning
