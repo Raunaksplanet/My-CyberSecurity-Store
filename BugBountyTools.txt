@@ -16,3 +16,13 @@
 3. Parameter Finding Tools
 3.1. Paramspider
 3.2. gf
+
+4. Sub subdomain takeover Tools 
+4.1. subzy
+4.2. subjack
+4.3. nuclei
+
+5. Js File Enumeration
+5.1. SubJs
+5.2. Katana
+5.3. Mantra
