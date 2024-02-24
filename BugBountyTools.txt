@@ -26,3 +26,4 @@
 5.1. SubJs
 5.2. Katana
 5.3. Mantra
+5.4. JS LinkFinder
