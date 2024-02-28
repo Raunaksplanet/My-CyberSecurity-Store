@@ -3,3 +3,6 @@
 2. cat list.txt | httpx-toolkit -sc -td -title
 
 3. cat wildcard | assetfinder --subs-only | anew domains
+    3.1. cat domains | httprobe -c 80 --prefer-https | anew hosts
+
+4. 
