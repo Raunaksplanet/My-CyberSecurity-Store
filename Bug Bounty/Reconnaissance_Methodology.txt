@@ -3,6 +3,7 @@
 2. read the program scope and other information available on 
 3. In Public program > hactivity > discloused Reports | "Most Reccon is already done"
 4. Hunt bugs you just studied or read hackerone reports of in all the gathered sub-domains
+5. Check Hacktivity before reporting a bug so you can save yourself from duplicate 
 
 
 • Steps
