@@ -8,3 +8,6 @@ Impact: Your domain allows redirects to any phishing or malicious sites, by usin
     www.affirm.com///google.com/?www.affirm.com/?category=interview&page=2
 
 3. https://www.omise.co////bing.com/?www.omise.co/?category=interview&page=2
+
+4. Original Redirection URL: http://meta.myndr.net/latest/meta-data/filter-id/add?ref_url=http://dashboard.myndr.net/auth/register?id= 
+   Malicious URL:            http://meta.myndr.net/latest/meta-data/filter-id/add/?ref_url=http://phishing.com\dashboard.myndr.net/../../../ 
