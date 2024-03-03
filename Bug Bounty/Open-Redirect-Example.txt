@@ -1,3 +1,7 @@
+Impact: Your domain allows redirects to any phishing or malicious sites, by using the attack pattern, it's results your users at risk, An attacker can use this pattern to hack users by sending phishing e mails ... And it's your control  that your domain is allowing redirection
+
+
+
 1. https://support.nordvpn.com/#/path///google.com
 
 2. https://www.affirm.com/
