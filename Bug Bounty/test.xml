@@ -1,0 +1,6 @@
+<html>
+<head></head>
+<body>
+<something:script xmlns:something="http://www.w3.org/1999/xhtml">alert("hellor_eddit")</something:script>
+</body>
+</html>
