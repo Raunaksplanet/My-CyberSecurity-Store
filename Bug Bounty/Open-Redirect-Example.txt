@@ -16,3 +16,5 @@ Impact: Your domain allows redirects to any phishing or malicious sites, by usin
     Go to URL http://www.lahitapiola.fi///;@inexistantdomain.com for example using Chrome
     You will be redirected to inexistantdomain.com and cookies will be posted.
 
+6. https://login.newrelic.com/login?return_to=http:////example.com
+   https://login.newrelic.com/login?return_to=http:example.com 
