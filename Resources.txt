@@ -12,84 +12,16 @@
     Game pwn
     Block Chain
 
-2. PicoCTF
-    Binary exploit
-    Crypto
-    Forensics
-    Reverse Engineering
-    Web exploit
-
 3. RootMe
-    App-script
-    App-System
-    Forensics
-    Programming
-    Steagnography
-    cracking
-    Crypto analysis
-    network
-    realist
     web-client
     web-server
 
-4. PortSwigger
-    SQL Injection Labs
-    XSS Labs
-    CSRF Labs
-    Clickjacking Labs
-    DOM-based vulnerabilities Labs
-    CORS Labs
-    XXE Injection Labs
-    SSRF Labs
-    HTTP Request Smuggling Labs
-    OS Command Injection Labs
-    Server-Side Template Injection Labs
-    Directory Traversal Labs
-    Access Control Vulnerabilities Labs
-    WebSockets Labs
-    Web Cache Poisoning Labs
-    Insecure Deserialization Labs
-    Information Disclosure Labs
-    Business Logic Vulnerabilities Labs
-    HTTP Host Header Attacks Labs
-    OAuth Authentication Labs
-    File Upload Vulnerabilities Labs
-    JWT
-    Essential Skils
-    Prototype Pollution
-    GraphQL API Vulnerability
-    Race Condition
-    NoSQL Condition
-    Web Testing
-    Web LLM Attacks
-
 5. hbh.sh
-    Challenges
-    Prerequisites
     Basic Web Hacking
-    Application Cracking
     Javascript Hacking
     Realistic Challenges
-    Reverse Engineering
-    Rooting Challenges
-    Penetration-Testing
-    Timed Challenges
-    Decryption
-    Logical
-    Steganography
-    Tracking
-    PHP Patching
-    Application Patching
-    Social Engineering
 
 6. Proving Grounds
 7. PentesterLab                                                 
 8. HackingHub
 9. APISecurity
-
-
------- Job ------                                                                                          
-1. Math 
-    6.7 SSC Math
-2. Books 
-    5.1            25
