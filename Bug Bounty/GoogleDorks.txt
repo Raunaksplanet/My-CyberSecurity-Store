@@ -1,0 +1,1 @@
+OpenRedirect: site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https
