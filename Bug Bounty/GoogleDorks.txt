@@ -1,1 +1,5 @@
-OpenRedirect: site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https
+1. OpenRedirect: site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https
+
+2. Finding open bugbounty programs: “responsible disclosure program”, “vulnerability disclosure program”, “vulnerability program rewards”, “bugbounty reward program”
+inurl: vulnerability disclosure
+inurl: responsible disclosure
