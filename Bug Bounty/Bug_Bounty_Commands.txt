@@ -5,6 +5,8 @@
 3. cat wildcard | assetfinder --subs-only | anew domains
     3.1. cat domains | httprobe -c 80 --prefer-https | anew hosts
 
-4. amass enum -brute -active -d domain.com -o amass-output.txt
+4. amass enum -brute -active -d domain.com -o amass-output.txt [Reference: zseanos-methodology]
 
-5. 
+5. cat amass-output.txt | httprobe -p
+http:81 -p http:3000 -p https:3000 -p http:3001 -p https:3001 -p http:8000 -p
+http:8080 -p https:8443 -c 50 | tee online-domains.txt [Reference: zseanos-methodology]
