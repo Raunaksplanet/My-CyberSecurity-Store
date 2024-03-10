@@ -4,8 +4,11 @@ login, register, upload, contact, feedback, join, signup, profile, user, comment
 developer, affiliate, careers, upload, mobile, upgrade, passwordreset.
 
 
-
-2. Finding open bugbounty programs: “responsible disclosure program”, “vulnerability disclosure program”, “vulnerability program rewards”, “bugbounty reward program”
+2. Finding open bugbounty programs:
+inurl: responsible disclosure program 
+inurl: vulnerability disclosure program 
+inurl: vulnerability program rewards 
+inurl: bugbounty reward program
 inurl: vulnerability disclosure
 inurl: responsible disclosure
 
