@@ -1,5 +1,9 @@
 Reference: https://github.com/vavkamil/awesome-bugbounty-tools
 
+Lazy Recon
+https://github.com/nahamsec/lazyrecon
+
+
 1. Sub-Domain Enumeration
 • Subfinder 
 • Amass
