@@ -8,7 +8,6 @@ https://github.com/nahamsec/lazyrecon
 • Subfinder 
 • Amass
 • Asset Finder
-• project discovery.io 
 • crt.sh
 
 2. Live Domain
