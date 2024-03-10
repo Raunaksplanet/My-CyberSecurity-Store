@@ -1,38 +1,41 @@
+Reference: https://github.com/vavkamil/awesome-bugbounty-tools
+
 1. Sub-Domain Enumeration
-1.1. Subfinder
-1.2. Amass
-1.3. Asset Finder
-1.4. httpx
-1.5. VirusTotal
-1.4. project discovery.io 
-1.5. crt.sh
-1.6. certspotter.com
+• Subfinder 
+• Amass
+• Asset Finder
+• VirusTotal
+• project discovery.io 
+• crt.sh
+• certspotter.com
 
 2. Live Domain
-2.1. httprobe
+• httprobe
+• httpx
 
 3. Directory Busting/Fuzzing Tools
-3.1. Gobuster
-3.2. FFUF
-3.1. WFUZZ
-3.1. dirsearch
-3.1. dirb
+• Gobuster
+• FFUF
+• WFUZZ
+• dirsearch
+• dirb
 
 4. Parameter Finding Tools
-4.1. Paramspider
-4.2. gf
+• Paramspider
+• gf
+• Arjun (https://github.com/s0md3v/Arjun)
 
 5. Sub subdomain takeover Tools 
-5.1. subzy
-5.2. subjack
-5.3. nuclei
+• subzy
+• subjack
+• nuclei
 
 6. Js File Enumeration
-6.1. SubJs
-6.2. Katana
-6.3. Mantra
-6.4. JS LinkFinder
+• SubJs
+• Katana
+• Mantra
+• JS LinkFinder
 
 7. Others
-7.1. anew tool
-7.2. Security trails 
+• anew tool
+• Security trails 
