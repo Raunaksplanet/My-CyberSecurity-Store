@@ -5,4 +5,6 @@
 3. cat wildcard | assetfinder --subs-only | anew domains
     3.1. cat domains | httprobe -c 80 --prefer-https | anew hosts
 
-4. 
+4. amass enum -brute -active -d domain.com -o amass-output.txt
+
+5. 
