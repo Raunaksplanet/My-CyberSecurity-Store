@@ -11,7 +11,6 @@ https://github.com/nahamsec/lazyrecon
 • VirusTotal
 • project discovery.io 
 • crt.sh
-• certspotter.com
 
 2. Live Domain
 • httprobe
