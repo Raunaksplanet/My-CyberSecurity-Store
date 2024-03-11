@@ -1,6 +1,14 @@
+----- httpx -----
 1. subfinder -d <url> | httpx -title -ports 443, 8443 
-
 2. cat list.txt | httpx-toolkit -sc -cl -location -td -title | anew httpx.txt
+---------------------------------------------------------------------------------------------------------
+-sc, -status-code     display response status-code
+-cl, -content-length  display response content-length
+-td, -tech-detect     display technology in use based on wappalyzer dataset
+-title                display page title
+-mc, -match-code string            match response with specified status code (-mc 200,302)
+-t, -threads int              number of threads to use (default 50)
+---------------------------------------------------------------------------------------------------------
 
 3. cat wildcard | assetfinder --subs-only | anew domains
     3.1. cat domains | httprobe -c 80 --prefer-https | anew hosts
