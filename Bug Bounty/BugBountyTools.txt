@@ -6,9 +6,8 @@ https://github.com/nahamsec/lazyrecon
 
 1. Sub-Domain Enumeration
 • Subfinder 
-• Amass
-• Asset Finder
 • crt.sh
+• Asset Finder
 
 2. Live Domain
 • httprobe
