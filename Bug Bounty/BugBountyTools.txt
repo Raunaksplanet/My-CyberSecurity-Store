@@ -4,6 +4,7 @@ Reference: https://github.com/vavkamil/awesome-bugbounty-tools
 • Subfinder 
 • crt.sh
 • Asset Finder
+• amass
 
 2. Live Domain
 • httprobe
