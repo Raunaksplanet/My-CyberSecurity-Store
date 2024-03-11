@@ -1,4 +1,7 @@
 1. OpenRedirect: site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https
+
+site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https | inurl:return | inurl:return_url | inurl:rUrl | inurl:cancelUrl | inurl:url | inurl:redirect | inurl:follow | inurl:goto | inurl:returnTo | inurl:returnUrl | inurl:r_url | inurl:history | inurl:goback | inurl:redirectTo | inurl:redirectUrl | inurl:redirUrl
+
 More eg Terms: 
 login, register, upload, contact, feedback, join, signup, profile, user, comment, api,
 developer, affiliate, careers, upload, mobile, upgrade, passwordreset.
