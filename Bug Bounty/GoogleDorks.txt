@@ -15,3 +15,7 @@ inurl: bugbounty reward program
 inurl: vulnerability disclosure
 inurl: responsible disclosure
 
+3. Juicy Extensions
+site:"example[.]com" ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess
+
+4. Reference for more: https://github.com/TakSec/google-dorks-bug-bounty
