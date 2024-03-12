@@ -1,6 +1,10 @@
 ----- httpx -----
 1. subfinder -d <url> | httpx -title -ports 443, 8443 
+
 2. cat list.txt | httpx-toolkit -sc -cl -location -td -title | anew httpx.txt
+
+3. cat etsy.txt | httpx -mc 200 | anew new.txt
+
 ---------------------------------------------------------------------------------------------------------
 -sc, -status-code     display response status-code
 -cl, -content-length  display response content-length
