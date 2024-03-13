@@ -43,3 +43,10 @@
 • Mostly found in support chat file upload 
 • upload normal and file and intercept the request, file data can be changed to malicious content using burpsuite
 • Some times using developer tool to change the file type from img to text can lead to xss due to less checking at backend.
+
+9. HTTP parameter pollution
+• https://twitter.com/i/u?iid=F6542&uid=1134885524&nid=22+26&sig=647192e86e28fb6691db2502c5ef6cf3xxx
+• Notice the parameter UID. This UID happens to be the user ID of the currently signed-in Twitter account. 
+  After noticing the UID, Tasci did what most hackers would do—he tried changing the UID to that of
+  another user, but nothing happened. Twitter just returned an error. Tasci tried adding a second UID parameter
+  so the URL looked like this Success! He managed to unsubscribe another user from their email notifications
