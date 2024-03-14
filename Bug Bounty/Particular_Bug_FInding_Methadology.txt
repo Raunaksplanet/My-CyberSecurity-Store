@@ -1,5 +1,7 @@
 • Always try to chain vulnerability one to another  to increase the severity
 • finding vulnerability is half the war and then selling that vulnerability is half war
+• Use a proxy and check all the resources that are being called when you visit a site or application
+
 
 1. XSS (Cross Site Scripting): 
 • find paramter/enpoints/input fields
