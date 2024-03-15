@@ -34,6 +34,16 @@ https:attacker.com
 https;attacker.com
 https:\/\/attacker.com
 https:/\/\attacker.com
+https:\\example.com
+https://example.com
+https://example.com/login?redir=http://example.com.attacker.com
+https://example.com/login?redir=http://attacker.com/example.com
+https://example.com/login?redir=https://example.com.attacker.com/example.com
+https://example.com/login?redir=https://example.com@attacker.com/example.com
+https://example.com%2f@attacker.com
+https://example.com%252f@attacker.com
+https://example.com%25252f@attacker.com
+
 
 2. Finding open bugbounty programs:
 inurl: responsible disclosure program 
