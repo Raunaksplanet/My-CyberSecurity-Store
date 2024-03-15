@@ -29,6 +29,12 @@ login, register, upload, contact, feedback, join, signup, profile, user, comment
 developer, affiliate, careers, upload, mobile, upgrade, passwordreset,index of, %3Dhttp.
 
 
+Bypassing Open-Redirect Protection
+https:attacker.com
+https;attacker.com
+https:\/\/attacker.com
+https:/\/\attacker.com
+
 2. Finding open bugbounty programs:
 inurl: responsible disclosure program 
 inurl: vulnerability disclosure program 
