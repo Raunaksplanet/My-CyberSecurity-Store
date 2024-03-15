@@ -1,8 +1,11 @@
-1. OpenRedirect: site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https
+1. OpenRedirect: 
+• site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https
 
-site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https | inurl:return | inurl:return_url | inurl:rUrl | inurl:cancelUrl | inurl:url | inurl:redirect | inurl:follow | inurl:goto | inurl:returnTo | inurl:returnUrl | inurl:r_url | inurl:history | inurl:goback | inurl:redirectTo | inurl:redirectUrl | inurl:redirUrl
+• site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https | inurl:return | inurl:return_url | inurl:rUrl | inurl:cancelUrl | inurl:url | inurl:redirect | inurl:follow | inurl:goto | inurl:returnTo | inurl:returnUrl | inurl:r_url | inurl:history | inurl:goback | inurl:redirectTo | inurl:redirectUrl | inurl:redirUrl
 
-More eg Terms: 
+• inurl:%3D%2F site:example.com
+
+• More eg Terms: 
 login, register, upload, contact, feedback, join, signup, profile, user, comment, api,
 developer, affiliate, careers, upload, mobile, upgrade, passwordreset,index of, %3Dhttp.
 
@@ -16,6 +19,6 @@ inurl: vulnerability disclosure
 inurl: responsible disclosure
 
 3. Juicy Extensions
-site:"example[.]com" ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess
+• site:"example[.]com" ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess
 
 4. Reference for more: https://github.com/TakSec/google-dorks-bug-bounty
