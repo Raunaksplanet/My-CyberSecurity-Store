@@ -4,7 +4,7 @@ site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src
 
 More eg Terms: 
 login, register, upload, contact, feedback, join, signup, profile, user, comment, api,
-developer, affiliate, careers, upload, mobile, upgrade, passwordreset,index of.
+developer, affiliate, careers, upload, mobile, upgrade, passwordreset,index of, %3Dhttp.
 
 
 2. Finding open bugbounty programs:
