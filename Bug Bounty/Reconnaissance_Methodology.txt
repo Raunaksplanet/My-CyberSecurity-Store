@@ -13,3 +13,7 @@
 4. find paramters on each domain
 5. Js file enumerate 
 6. Try common Vulnerabilities 
+
+
+
+Manully walking thorugh the app
