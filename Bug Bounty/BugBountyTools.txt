@@ -1,4 +1,5 @@
 Reference: https://github.com/vavkamil/awesome-bugbounty-tools
+           https://bugbountyforum.com/tools/recon/
 
 1. Sub-Domain Enumeration
 • Subfinder 
@@ -6,6 +7,7 @@ Reference: https://github.com/vavkamil/awesome-bugbounty-tools
 • Asset Finder
 • amass
 • waybackurls
+• Google Dorks
 
 2. Live Domain
 • httprobe
@@ -28,6 +30,7 @@ Reference: https://github.com/vavkamil/awesome-bugbounty-tools
 • subjack
 • nuclei
 
+
 6. Js File Enumeration
 • SubJs
 • Katana
@@ -37,3 +40,8 @@ Reference: https://github.com/vavkamil/awesome-bugbounty-tools
 7. Others
 • anew tool
 • Security trails 
+
+8.File Upload vulnerability testing tool
+• fuxploider 
+
+
