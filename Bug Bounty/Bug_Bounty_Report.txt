@@ -1,4 +1,0 @@
-For example, instead of a report title like “IDOR on a Critical Endpoint,”
-use one like “IDOR on https://example.com/change_password Leads to Account
-Takeover for All Users.” Your goal is to give the security engineer reading
-your report a good idea of the content you’ll discuss in the rest of it.
