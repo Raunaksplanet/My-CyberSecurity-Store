@@ -1,35 +1,17 @@
 1. OpenRedirect: 
-• site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 • site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https | inurl:return | inurl:return_url | inurl:rUrl | inurl:cancelUrl | inurl:url | inurl:redirect | inurl:follow | inurl:goto | inurl:returnTo | inurl:returnUrl | inurl:r_url | inurl:history | inurl:goback | inurl:redirectTo | inurl:redirectUrl | inurl:redirUrl
 
-• inurl:%3D%2F site:example.com
+•  site:xyz.com inurl:(redir | url | redirect | return | src=http | r=https | return_url | rUrl | cancelUrl | follow | goto | returnTo | returnUrl | r_url | history | goback | redirectTo | redirectUrl | redirUrl)
+--------------------------------------------------------------------------------------------------------------------------------------------
 
-inurl:redir site:example.com
-inurl:redirect site:example.com
-Open Redirects 135
-inurl:redirecturi site:example.com
-inurl:redirect_uri site:example.com
-inurl:redirecturl site:example.com
-inurl:redirect_uri site:example.com
-inurl:return site:example.com
-inurl:returnurl site:example.com
-inurl:relaystate site:example.com
-inurl:forward site:example.com
-inurl:forwardurl site:example.com
-inurl:forward_url site:example.com
-inurl:url site:example.com
-inurl:uri site:example.com
-inurl:dest site:example.com
-inurl:destination site:example.com
-inurl:next site:example.com
-
-• More eg Terms: 
+1.1. More Doxing Terms: 
 login, register, upload, contact, feedback, join, signup, profile, user, comment, api,
 developer, affiliate, careers, upload, mobile, upgrade, passwordreset,index of, %3Dhttp.
 
 
-Bypassing Open-Redirect Protection
+1.2. Bypassing Open-Redirect Protection
+--------------------------------------------------------------------------------------------------------------------------------------------
 https:attacker.com
 https;attacker.com
 https:\/\/attacker.com
@@ -43,17 +25,22 @@ https://example.com/login?redir=https://example.com@attacker.com/example.com
 https://example.com%2f@attacker.com
 https://example.com%252f@attacker.com
 https://example.com%25252f@attacker.com
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Finding open bugbounty programs:
+--------------------------------------------------------------------------------------------------------------------------------------------
 inurl: responsible disclosure program 
 inurl: vulnerability disclosure program 
 inurl: vulnerability program rewards 
 inurl: bugbounty reward program
 inurl: vulnerability disclosure
 inurl: responsible disclosure
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Juicy Extensions
+--------------------------------------------------------------------------------------------------------------------------------------------
 • site:"example[.]com" ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 
 4. Reference for more: https://github.com/TakSec/google-dorks-bug-bounty
