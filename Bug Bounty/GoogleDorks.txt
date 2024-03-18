@@ -44,3 +44,7 @@ inurl: responsible disclosure
 
 
 4. Reference for more: https://github.com/TakSec/google-dorks-bug-bounty
+--------------------------------------------------------------------------------------------------------------------------------------------
+5. Finding stored XSS using google dorks
+site:xyz.com inurl:<img src=x>
+TIP: use more xss payload to check stored xss
