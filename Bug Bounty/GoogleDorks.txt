@@ -48,3 +48,7 @@ inurl: responsible disclosure
 5. Finding stored XSS using google dorks
 site:xyz.com inurl:<img src=x>
 TIP: use more xss payload to check stored xss
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+6. Instagram osint
+site:Instagram.com intext:accountname
