@@ -6,6 +6,8 @@
 1. XSS (Cross Site Scripting): 
 • find paramter/enpoints/input fields
 • try different payloads according to the waf
+• image and javascript: payload are most common
+
 
 2. CSRF(Cross site request forgery):
 • Allow's an attacker to perform an action they don't intend to perform
@@ -25,6 +27,15 @@
 • Attacker exploit this vulnerability to access unauthorize data by manupilating parameters in request
 • Always required two accounts for ID paramters 
 • check for id which seems in order, in victim account copy to attacker account and id response is 200 idor is successfull
+• id types:- 
+        Decimal shorter than 8 digits
+        decimal 8 or more digits
+        Name/email
+        uuid
+        other - non-bruteforceable
+        Hexadecimal 8 more digits
+        other - bruteforceable
+        hash
 
 4. SSRF(server side request forgery):
 • It's a vulnerability that allows an attacker to cause the server-side application to make request to unintended location
