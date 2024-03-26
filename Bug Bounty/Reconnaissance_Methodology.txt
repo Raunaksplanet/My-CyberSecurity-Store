@@ -1,19 +1,25 @@
+Recon Methodology by Justin Gardner “rhynorater”
+Link:- https://www.youtube.com/watch?v=HwbEmHJGpcM&list=PLvxs_epf2X91Dn3pWeRxPQSV6SWvWqDE3&index=4
+
+
 • Points TO Remeber
-1. Check the program domain eg:- agriculture, medical, automobiles, I.T
-2. read the program scope and other information available on 
-3. In Public program > hactivity > discloused Reports | "Most Reccon is already done"
-4. Hunt bugs you just studied or read hackerone reports of in all the gathered sub-domains
-5. Check Hacktivity before reporting a bug so you can save yourself from duplicate 
-
-
-• Steps
-1. Gather subdomains as many possible
-2. sort Live sub-domains
-3. take screen shot every domain
-4. find paramters on each domain
-5. Js file enumerate 
-6. Try common Vulnerabilities 
+1. Create a account if required and setup up the web app
+2. explore the business functionality and operations on web app
+3. Look for the usual user id parameter 
+4. look for the CSRF through pasword reset or profile update section
+5.  26:04
 
 
 
-Manully walking thorugh the app
+
+
+
+
+• Things Could be done with web app
+1. Sub-Domain enumeration
+  1.1. sort Live sub-domains
+2. Parameter enumeration on each domain
+3. js file enumeration with Katana
+4. js core enumeration with LinkFinder
+5. waybackurl enumeration can be done
+
