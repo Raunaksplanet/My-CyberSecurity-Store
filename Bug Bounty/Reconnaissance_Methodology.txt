@@ -14,12 +14,11 @@ Link:- https://www.youtube.com/watch?v=HwbEmHJGpcM&list=PLvxs_epf2X91Dn3pWeRxPQS
 
 
 
-
 • Things Could be done with web app
 1. Sub-Domain enumeration
   1.1. sort Live sub-domains
 2. Parameter enumeration on each domain
 3. js file enumeration with Katana
-4. js core enumeration with LinkFinder
-5. waybackurl enumeration can be done
+  3.1. js file end point enumeration with LinkFinder
+4. waybackurl enumeration can be done
 
