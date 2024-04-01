@@ -1,13 +1,14 @@
 ----- sub domain enumeration -----
 1. subfinder -d <url> -silent > 1
+
 2. crt -s -e <url> > 2
+
 3. assetfinder -subs-only <url> > 3
+
 4. cat 1 2 3 | httpx | anew subdomains
-5. 
 
-
-6. cat domains.txt | katana | grep js | httpx -mc 200 | tee js.txt  [Reference: https://medium.com/@realm3ter/analyzing-javascript-files-to-find-bugs-820167476ffe]
+5. cat domains.txt | katana | grep js | httpx -mc 200 | tee js.txt  [Reference: https://medium.com/@realm3ter/analyzing-javascript-files-to-find-bugs-820167476ffe]
    cat target.txt | gau | grep ".js" | tee js.txt
    cat target.txt | waybackurls | grep ".js" | tee -a js.txt
 
-7. cat js.txt | while read url; do python3 SecretFinder.py -i $url -o cli >> secrets.txt; done
+6. cat js.txt | while read url; do python3 SecretFinder.py -i $url -o cli >> secrets.txt; done
