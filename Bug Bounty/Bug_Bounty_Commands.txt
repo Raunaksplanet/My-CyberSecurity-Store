@@ -1,4 +1,10 @@
------ httpx -----
+----- sub domain enumeration -----
+1. subfinder -d <url> -silent > 1
+2. crt -s -e <url> > 2
+3. assetfinder -subs-only <url> > 3
+4. cat 1 2 3 | httpx | anew subdomains
+5. 
+
 1. subfinder -d <url> | httpx -title -ports 443, 8443 
 
 2. cat list.txt | httpx-toolkit -sc -cl -location -td -title | anew httpx.txt
