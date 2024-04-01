@@ -23,4 +23,4 @@
 http:81 -p http:3000 -p https:3000 -p http:3001 -p https:3001 -p http:8000 -p
 http:8080 -p https:8443 -c 50 | tee online-domains.txt [Reference: zseanos-methodology]
 
-
+6. cat domains.txt | katana | grep js | httpx -mc 200 | tee js.txt  [Reference: https://medium.com/@realm3ter/analyzing-javascript-files-to-find-bugs-820167476ffe]
