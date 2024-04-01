@@ -1,3 +1,9 @@
+Reference: 
+https://taksec.github.io/google-dorks-bug-bounty/?source=post_page-----eb8d73ee73ee--------------------------------
+https://dorks.faisalahmed.me/?source=post_page-----eb8d73ee73ee--------------------------------#
+https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/?source=post_page-----eb8d73ee73ee--------------------------------
+
+
 1. OpenRedirect: 
 --------------------------------------------------------------------------------------------------------------------------------------------
 • site:xyz.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=https | inurl:return | inurl:return_url | inurl:rUrl | inurl:cancelUrl | inurl:url | inurl:redirect | inurl:follow | inurl:goto | inurl:returnTo | inurl:returnUrl | inurl:r_url | inurl:history | inurl:goback | inurl:redirectTo | inurl:redirectUrl | inurl:redirUrl
