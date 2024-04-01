@@ -26,3 +26,5 @@ http:8080 -p https:8443 -c 50 | tee online-domains.txt [Reference: zseanos-metho
 6. cat domains.txt | katana | grep js | httpx -mc 200 | tee js.txt  [Reference: https://medium.com/@realm3ter/analyzing-javascript-files-to-find-bugs-820167476ffe]
    cat target.txt | gau | grep ".js" | tee js.txt
    cat target.txt | waybackurls | grep ".js" | tee -a js.txt
+
+7. cat js.txt | while read url; do python3 SecretFinder.py -i $url -o cli >> secrets.txt; done
