@@ -1,0 +1,18 @@
+• What we can do 
+  1. Sub-domain enumeration
+  2. js file enumeration
+  3. parameter enumeration
+  4. google dorking
+  5. burpusite  manual testing
+
+
+• Tools for each point 
+   • Sub-domain enumeration
+     • subfinder, crt, assetfinder
+   • js file enumeration
+     • katana, gau, waybackurls, secret finder, link finder
+   • parameter enumeration
+     • katana, gau, waybackurls
+   • google dorking 
+     • Github
+
