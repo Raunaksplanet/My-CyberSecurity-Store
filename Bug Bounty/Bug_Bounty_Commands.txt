@@ -5,29 +5,6 @@
 4. cat 1 2 3 | httpx | anew subdomains
 5. 
 
-1. subfinder -d <url> | httpx -title -ports 443, 8443 
-
-2. cat list.txt | httpx-toolkit -sc -cl -location -td -title | anew httpx.txt
-
-3. cat etsy.txt | httpx -mc 200 | anew new.txt
-
----------------------------------------------------------------------------------------------------------
--sc, -status-code     display response status-code
--cl, -content-length  display response content-length
--td, -tech-detect     display technology in use based on wappalyzer dataset
--title                display page title
--mc, -match-code string            match response with specified status code (-mc 200,302)
--t, -threads int              number of threads to use (default 50)
----------------------------------------------------------------------------------------------------------
-
-3. cat wildcard | assetfinder --subs-only | anew domains
-    3.1. cat domains | httprobe -c 80 --prefer-https | anew hosts
-
-4. amass enum -brute -active -d domain.com -o amass-output.txt [Reference: zseanos-methodology]
-
-5. cat amass-output.txt | httprobe -p
-http:81 -p http:3000 -p https:3000 -p http:3001 -p https:3001 -p http:8000 -p
-http:8080 -p https:8443 -c 50 | tee online-domains.txt [Reference: zseanos-methodology]
 
 6. cat domains.txt | katana | grep js | httpx -mc 200 | tee js.txt  [Reference: https://medium.com/@realm3ter/analyzing-javascript-files-to-find-bugs-820167476ffe]
    cat target.txt | gau | grep ".js" | tee js.txt
