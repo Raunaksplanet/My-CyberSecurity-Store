@@ -15,3 +15,14 @@
      • katana, gau, waybackurls
    • google dorking 
      • Github
+
+• Vulnerabilities
+1. Cross-Site Scripting (XSS)
+2. Cross-Site Request Forgery (CSRF)
+3. Insecure Direct Object References (IDOR)
+4. Server-Side Request Forgery (SSRF)
+5. Account Takeover
+6. Password Functionality Abuse
+7. Open Redirect
+8. File Upload Vulnerability
+9. Business Logic Vulnerability
