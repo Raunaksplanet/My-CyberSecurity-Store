@@ -47,6 +47,12 @@
 
 6. Account takeover:
 • most vulnerable functionality is password reset 
+• Ways of ACT
+    1. Oauth
+    2. JWT verification
+    3. No rate limit on OTP verification on password reset
+    5. OTP Bypass Through Response Manipulation
+    6. idor
 
 7. Information Disclosure: 
 • offten times happen due to IDOR or unsecured endpoint
