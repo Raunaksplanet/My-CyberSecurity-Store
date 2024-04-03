@@ -1,8 +1,8 @@
 Reference: 
-https://taksec.github.io/google-dorks-bug-bounty/?source=post_page-----eb8d73ee73ee--------------------------------
-https://dorks.faisalahmed.me/?source=post_page-----eb8d73ee73ee--------------------------------#
-https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/?source=post_page-----eb8d73ee73ee--------------------------------
-
+https://taksec.github.io/google-dorks-bug-bounty/
+https://dorks.faisalahmed.me/
+https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/
+https://github.com/TakSec/google-dorks-bug-bounty
 
 1. OpenRedirect: 
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -49,7 +49,7 @@ inurl: responsible disclosure
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-4. Reference for more: https://github.com/TakSec/google-dorks-bug-bounty
+4. Reference for more: 
 --------------------------------------------------------------------------------------------------------------------------------------------
 5. Finding stored XSS using google dorks
 site:xyz.com inurl:<img src=x>
