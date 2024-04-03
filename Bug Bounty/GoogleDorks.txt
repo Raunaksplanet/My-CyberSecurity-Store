@@ -45,11 +45,7 @@ inurl: responsible disclosure
 
 3. Juicy Extensions
 --------------------------------------------------------------------------------------------------------------------------------------------
-• site:"example[.]com" ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess
---------------------------------------------------------------------------------------------------------------------------------------------
-
-
-4. Reference for more: 
+• site:"example[.]com" ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess 
 --------------------------------------------------------------------------------------------------------------------------------------------
 5. Finding stored XSS using google dorks
 site:xyz.com inurl:<img src=x>
