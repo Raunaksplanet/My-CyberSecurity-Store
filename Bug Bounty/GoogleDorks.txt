@@ -41,6 +41,8 @@ inurl: vulnerability program rewards
 inurl: bugbounty reward program
 inurl: vulnerability disclosure
 inurl: responsible disclosure
+
+inurl:"responsible disclosure program" OR inurl:"vulnerability disclosure program" OR inurl:"vulnerability program rewards" OR inurl:"bugbounty reward program" OR inurl:"vulnerability disclosure" OR inurl:"responsible disclosure"
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Juicy Extensions
