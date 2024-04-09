@@ -23,4 +23,4 @@ subfinder -dL wildcards.txt -silent -all -recursive | anew subs.txt && chaos -dL
 
 
 cat alive.txt | gau | anew 1 && cat alive.txt |  katana -silent | anew 2 && cat alive.txt | waybackurls | anew 3 | anew parameters 
-cat alive.txt | gau | anew 1 && cat alive.txt |  katana -silent | anew 2 && cat alive.txt | waybackurls | anew 3 | cat 1 2 3 | httpx | anew  parameters
+cat alive.txt | gau | anew 1 && cat alive.txt |  katana -silent | anew 2 && cat alive.txt | waybackurls | anew 3 | cat 1 2 3 | anew  parameters | grep .js | anew JsFiles | rm 1 2 3 
