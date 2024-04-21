@@ -1,3 +1,4 @@
+https://alike-lantern-72d.notion.site/Web-Application-Penetration-Testing-Checklist-4792d95add7d4ffd85dd50a5f50659c6
 • Always try to chain vulnerability one to another  to increase the severity
 • finding vulnerability is half the war and then selling that vulnerability is half war
 • Use a proxy and check all the resources that are being called when you visit a site or application
