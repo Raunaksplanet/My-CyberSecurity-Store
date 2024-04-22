@@ -21,6 +21,9 @@ subfinder -dL wildcards.txt -silent -all -recursive | anew subs.txt && chaos -dL
 ----- one line sub-domain enumeration without axiom-scan -----
 subfinder -dL wildcards.txt -silent -all -recursive | anew subs.txt && chaos -dL wildcards.txt | anew subs.txt && sublist3r -dL wildcards.txt | grep -oE '([a-zA-Z0-9]+\.){1,}[a-zA-Z]{2,}' | anew subs.txt && assetfinder -subs-only wildcards.txt | anew subs.txt && findomain -t wildcards.txt | anew subs.txt && cat subs.txt | uniq | sort -uR | anew subs.filtered && httpx -l subs.filtered -threads 200 -follow-redirects -silent -random-agent -ports 80,443,8009,8080,8081,8090,8180,8443,5000,7000,8082,3000 -mc 200 -o alive.txt && rm -r subs.filtered subs.txt
 
-
+----- one line parameter enumeration -----
 cat alive.txt | gau | anew 1 && cat alive.txt |  katana -silent | anew 2 && cat alive.txt | waybackurls | anew 3 | anew parameters 
 cat alive.txt | gau | anew 1 && cat alive.txt |  katana -silent | anew 2 && cat alive.txt | waybackurls | anew 3 | cat 1 2 3 | anew  parameters | grep .js | anew JsFiles | rm 1 2 3 
+
+----- one line sqli enumeration -----
+subfinder -dL domains.txt | dnsx | waybackurl | uro  | grep "\?" | head -20 | httpx -silent > urls;sqlmap -m urls --batch --random-agent --level 1 | tee sqlmap.txt
