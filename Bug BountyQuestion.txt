@@ -1,7 +1,0 @@
-How are you doing  ?
-
-
-I'm stuck at learning of bug bounty 😅
-I've done portswigger labs, read many hackerone reports for specific vulnerabilities and many more
-But still I'm inefficient in finding bugs
-I'm feeling stuck should I do ?
