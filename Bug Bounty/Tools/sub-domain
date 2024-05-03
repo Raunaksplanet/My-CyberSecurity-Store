@@ -81,5 +81,6 @@ cat 1 2 3 4 | anew sub.txt;
 rm -r 1 2 3 4;
 
 echo -e "${CYAN}6. Htppx{NC}"
-httpx -probe -sc -title -location -td -nc -ldp -ports 80,443,3306,1433,27017,445,1521,5432,6379 -l sub.txt  -o httpx-response.txt
-cat httpx-response.txt | grep -v '\[FAILED\]'
+httpx -probe -sc -title -location -td -nc -ports 80,443,3306,1433,27017,445,1521,5432,6379 -l sub.txt  -o httpx-response1.txt;
+cat httpx-response.txt | grep -v '\[FAILED\]'  | anew httpx-response.txt;
+rm httpx-response1.txt;
