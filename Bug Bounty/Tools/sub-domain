@@ -11,6 +11,11 @@ This Sub-domain enumeration script includes these tools
 "
 comment
 
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
 
 # Check if the user provided a filename argument
 if [ $# -eq 0 ]; then
@@ -24,18 +29,23 @@ fi
 file_path="$PWD/$1"
 
 # Sub-finder
-subfinder -dL "$file_path" -silent -all -recursive | anew subs.txt;
+echo -e "${RED}1. Sub-Finder${NC}"
+subfinder -dL "$file_path" -silent -all -recursive | anew 1.txt;
 
 # assetfinder
-cat "$file_path" | assetfinder -subs-only | anew subs.txt;
+echo -e "${GREEN}2. Asset-Finder${NC}"
+cat "$file_path" | assetfinder -subs-only | anew 2.txt;
 
 # findomain
-findomain  -f alive.txt | grep -oE '([a-zA-Z0-9]+\.){1,}[a-zA-Z]{2,}' | anew subs.txt;
+echo -e "${YELLOW}3. Findomain${NC}"
+findomain  -f "$file_path" | grep -oE '([a-zA-Z0-9]+\.){1,}[a-zA-Z]{2,}' | anew 3.txt;
 
 # crtsh
-cat $file_path | while read url; do crtsh -d $url | anew subs.txt; done
+echo -e "${BLUE}4. CRTsh${NC}"
+crtsh -f "$file_path" | tee 4.txt;
 
 # chaos
+echo -e "${PURPLE}5. Chaos${NC}"
 echo "Enter program name: "
 read user_input
 
