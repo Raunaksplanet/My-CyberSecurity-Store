@@ -16,6 +16,7 @@ GREEN='\033[0;32m'
 YELLOW='\033[0;33m'
 BLUE='\033[0;34m'
 PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
 
 # Check if the user provided a filename argument
 if [ $# -eq 0 ]; then
@@ -30,19 +31,19 @@ file_path="$PWD/$1"
 
 # Sub-finder
 echo -e "${RED}1. Sub-Finder${NC}"
-subfinder -dL "$file_path" -silent -all -recursive | anew 1.txt;
+subfinder -dL "$file_path" -silent -all -recursive | anew 1;
 
 # assetfinder
 echo -e "${GREEN}2. Asset-Finder${NC}"
-cat "$file_path" | assetfinder -subs-only | anew 2.txt;
+cat "$file_path" | assetfinder -subs-only | anew 2;
 
 # findomain
 echo -e "${YELLOW}3. Findomain${NC}"
-findomain  -f "$file_path" | grep -oE '([a-zA-Z0-9]+\.){1,}[a-zA-Z]{2,}' | anew 3.txt;
+findomain  -f "$file_path" | grep -oE '([a-zA-Z0-9]+\.){1,}[a-zA-Z]{2,}' | anew 3;
 
 # crtsh
 echo -e "${BLUE}4. CRTsh${NC}"
-crtsh -f "$file_path" | tee 4.txt;
+crtsh -f "$file_path" | tee 4;
 
 # chaos
 echo -e "${PURPLE}5. Chaos${NC}"
@@ -76,5 +77,9 @@ else
     echo "No input provided."
 fi
 
+cat 1 2 3 4 | anew sub.txt;
+rm -r 1 2 3 4;
 
-# anew subs.txt && chaos -dL wildcards.txt | anew subs.txt && sublist3r -dL wildcards.txt | grep -oE '([a-zA-Z0-9]+\.){1,}[a-zA-Z]{2,}' | anew subs.txt && assetfinder -subs-only wildcards.txt | anew subs.txt && findomain -t wildcards.txt | anew subs.txt && cat subs.txt | uniq | sort -uR | anew subs.filtered && httpx -l subs.filtered -threads 200 -follow-redirects -silent -random-agent -ports 80,443,8009,8080,8081,8090,8180,8443,5000,7000,8082,3000 -mc 200 -o alive.txt && rm -r subs.filtered subs.txt
+echo -e "${CYAN}6. Htppx{NC}"
+httpx -probe -sc -title -location -td -nc -ldp -ports 80,443,3306,1433,27017,445,1521,5432,6379 -l sub.txt  -o httpx-response.txt
+cat httpx-response.txt | grep -v '\[FAILED\]'
