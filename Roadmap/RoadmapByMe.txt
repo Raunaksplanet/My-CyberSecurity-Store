@@ -89,14 +89,15 @@
 
 
 Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackMe                                 https://tryhackme.com/
-									                                • THM All Free Labs List  	            	https://github.com/Raunaksplanet/THM-CTF-Time/tree/main
-									                                • HTB Academy				                https://academy.hackthebox.com/
-									                                • HTB Labs					                https://app.hackthebox.com/home
+								    • THM All Free Labs List  	            	https://github.com/Raunaksplanet/THM-CTF-Time/tree/main
+								    • HTB Academy				https://academy.hackthebox.com/
+							            • HTB Labs					https://app.hackthebox.com/home
                                                                     • PicoCTF                                   https://picoctf.org/ 
                                                                     • RootMe                                    https://www.root-me.org/?page=news&lang=fr
                                                                     • VulnHub (OS Related)                      https://www.vulnhub.com/
                                                                     • PentesterLab                              https://www.pentesterlab.com/
-                                                                    • API Security                              https://www.apisecuniversity.com/#:~:text=APIsec%20University%20offers%20free%2C%20hands,courses%20dedicated%20to%20API%20Security.
+                                                                    • API Security                               https://www.apisecuniversity.com/#:~:text=APIsec%20University%20offers%20free%2C%20hands,courses%20dedicated%20to%20API%20Security.
+                                                                    • Pwned Labs                                https://pwnedlabs.io/ 
                                                                     • WsCubeTeach (Tutorials Freak & art2hack)  https://www.tutorialsfreak.com/  &  https://art2hack.com/?user=dfs
                                                                     • PortSwigger (Web Related)                 https://portswigger.net/
                                                                     • Trailhead                                 https://trailhead.salesforce.com/en/career-path/cybersecurity/
