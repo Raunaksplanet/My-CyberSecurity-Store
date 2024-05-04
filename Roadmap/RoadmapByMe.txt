@@ -98,12 +98,11 @@ Intentionally Vulnerable Applications to Practice or CTF Websites:  • TryHackM
                                                                     • PentesterLab                              https://www.pentesterlab.com/
                                                                     • API Security                               https://www.apisecuniversity.com/#:~:text=APIsec%20University%20offers%20free%2C%20hands,courses%20dedicated%20to%20API%20Security.
                                                                     • Pwned Labs                                https://pwnedlabs.io/ 
-                                                                    • WsCubeTeach (Tutorials Freak & art2hack)  https://www.tutorialsfreak.com/  &  https://art2hack.com/?user=dfs
                                                                     • PortSwigger (Web Related)                 https://portswigger.net/
                                                                     • Trailhead                                 https://trailhead.salesforce.com/en/career-path/cybersecurity/
                                                                     • OverTheWire (Linux)                       https://overthewire.org/wargames/
                                                                     • CompTIA Security+ Labs                    https://www.101labs.net/comptia-security/
-								                                    • Exploit education  			            https://exploit.education/
+								    • Exploit education  			https://exploit.education/
                                                                     • HackingHub                                https://www.hackinghub.io
                                                                     • HBH.sh                                    https://hbh.sh/home
                                                                     • metasploitable (Linux) 
