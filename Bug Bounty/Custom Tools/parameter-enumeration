@@ -12,9 +12,7 @@ comment
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 YELLOW='\033[0;33m'
-BLUE='\033[0;34m'
-PURPLE='\033[0;35m'
-CYAN='\033[0;36m'
+
 
 # Check if the user provided a filename argument
 if [ $# -eq 0 ]; then
@@ -34,15 +32,34 @@ katana -silent -jc -jsl -kf a -u "$file_path" -o 1;
 cat 1 | grep ".js$" > js_files;
 rm 1;
 
+
 # Waybackurls
 echo -e "${GREEN}2. WayBackUrls${NC}";
 cat "$file_path" | waybackurls | anew parameters;
 
+echo -e "${YELLOW}3. LinkFinder${NC}"
+echo "Want to use LinkFinder(y/n): "
+read user_input
+
+$Linkfinder_path = "/home/kali/Tools/LinkFinder/linkfinder.py";
+
+# Store the input in a variable
+choice="$user_input"
+
+if [ "$user_input" = "y" ]; then
+    if [ ! -d "LinkFinder-Output" ]; then
+        mkdir LinkFinder-Output
+    fi
+
+    if [ -d "LinkFinder-Output" ]; then
+        while IFS= read -r file; do 
+            python3 "$Linkfinder_path" -i "$file" -o cli >> "LinkFinder-Output/${file##*/}_secrets.txt"
+        done < js_files
+    else
+        echo "Failed to create directory LinkFinder-Output"
+    fi
+else
+    echo "Skipped LinkFinder"
+fi
 
 
-
-
-
-
-
-#  linkfinder, secret finder
