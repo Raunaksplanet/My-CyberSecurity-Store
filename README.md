@@ -11,4 +11,5 @@
 - Basic Linux & Windows Commands
 - Learn programming & Scripting Languages for CyberSec
 - Basic of CyberSec
-- Uniersity Syllabus 
+- University Syllabus 
+- Learn WSL (Windows Sub-system for Linux)
