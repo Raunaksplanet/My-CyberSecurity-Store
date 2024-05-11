@@ -5,7 +5,7 @@
 
 # Index
 - [Most Useful and Amazing CyberSec & Bug Bounty Books](#Books)
-- Self Help Books
+- [Self Help Books](#self-help--books)
 - Bug Bounty Material
 - Comptia Exam's Topic
 - Basic Linux & Windows Commands
@@ -45,3 +45,21 @@
 | 26    | Real-World Bug Hunting - A Field Guide to Web Hacking| [Real-World Bug Hunting - A Field Guide to Web Hacking](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking.pdf)|
 | 27    | Penetration Testing - A hands-on introduction to Hacking | [Penetration Testing - A hands-on introduction to Hacking](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf)|
 | 28    | The Hacker Playbook 3 - Practical Guide To Penetration Testing | [The Hacker Playbook 3 - Practical Guide To Penetration Testing](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/The%20Hacker%20Playbook%203%20-%20Practical%20Guide%20To%20Penetration%20Testing.pdf)|
+
+
+# Self-Help Books
+
+| Index | Book Name                                           | Book Link                                            |
+|-------|-----------------------------------------------------|------------------------------------------------------|
+| 1     | 12-Rules-for-Life                                   | [12-Rules-for-Life](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/12-Rules-for-Life.pdf)                               |
+| 2     | Atomic Habits                                       | [Atomic Habits](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/Atomic%20Habits.pdf)                                   |
+| 3     | Build_Dont_Talk                                     | [Build_Dont_Talk](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/Build_Dont_Talk.pdf)                                 |
+| 4     | DoEpicShit                                          | [DoEpicShit](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/DoEpicShit.pdf)                                      |
+| 5     | Dont Believe Everything You Think                   | [Dont Believe Everything You Think](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/Dont%20Believe%20Everything%20You%20Think.pdf)               |
+| 6     | How to win in friends                              | [How to win in friends](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/How%20to%20win%20in%20friends.pdf)                           |
+| 7     | Ikigai                                              | [Ikigai](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/Ikigai.pdf)                                          |
+| 8     | Marcus-Aurelius-Meditations                        | [Marcus-Aurelius-Meditations](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/Marcus-Aurelius-Meditations.pdf)                     |
+| 9     | Think_Straight                                      | [Think_Straight](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/Think_Straight.pdf)                                  |
+| 10    | cant hurt me                                        | [cant hurt me](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/cant%20hurt%20me.pdf)                                    |
+| 11    | do it today                                         | [do it today](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/do%20it%20today%20.pdf)                                     |
+| 12    | eat the frog                                        | [eat the frog](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/eat%20the%20frog.pdf)                                    |
