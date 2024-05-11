@@ -5,7 +5,7 @@
 
 # Index
 - [Most Useful and Amazing CyberSec & Bug Bounty Books](#Books)
-- [Self Help Books](#self-help--books)
+- [Self Help Books](#self-help-books)
 - Bug Bounty Material
 - Comptia Exam's Topic
 - Basic Linux & Windows Commands
