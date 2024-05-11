@@ -27,7 +27,7 @@
 | 8     | Make Python Talk                                    | [Make Python Talk](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/make-python-talk.pdf)                                |
 | 9     | Zseanos Methodology                                 | [Zseanos Methodology](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/zseanos-methodology.pdf)                             |
 | 10    | Bug Bounty Bootcamp                                 | [Bug Bounty Bootcamp](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/bug-bounty-bootcamp.pdf)                             |
-| 11    | A Bug Hunter's Diary                                | [A Bug Hunter's Diary](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/a-bug-hunters-diary.pdf)                            |
+| 11    | A Bug Hunter's Diary                                | [A Bug Hunter's Diary](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/a%20bug%20hunters%20diary.pdf)                            |
 | 12    | JavaScript Security                                 | [JavaScript Security](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/JavaScript%20Security.pdf)                             |
 | 13    | Build an HTML5 Game                                 | [Build an HTML5 Game](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Build%20an%20HTML5%20Game.pdf)                             |
 | 14    | Red Team Field Manual                               | [Red Team Field Manual](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/rtfm-red-team-field-manual.pdf)                           |
