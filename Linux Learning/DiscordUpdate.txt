@@ -1,6 +1,0 @@
-Steps to update discord:
-
-1. Find discord file locatiom in your system using this command:- file $(which discord)
-2. in my case directory is /usr/share/discord/Discord/resources
-3. now edit build_info.json file to the latest version of discord 
-4. Discord is updated
