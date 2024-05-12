@@ -3,4 +3,24 @@
 3. js weasel
 4. 403 bypasser
 5. Upload Scanner
-6. 
+backslash-powered-scanner
+reflected parameters
+SAML Encoder/Decoder
+Bypass WAF
+CVSS Calculator
+Java deserialization Scanner
+Autorize
+BurpSmartBuster
+Content Type Converter
+JSON Beautifier
+PsychoPATH
+Retire-js
+J2EEScan
+SAML Raider
+Active Scan++
+UUID Detector
+Additional Scanner Checks
+CO2 Flow
+Hackvertor
+Meth0dMan
+Paramalyzer
