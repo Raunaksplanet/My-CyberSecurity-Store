@@ -4,7 +4,7 @@
     you can contribute to this repository too!
 
 # Index
-- [Learn To Use WSL](#Learn-To-Use-WSL)
+- [Learn To Use WSL](#learn-to-use-wsl)
 - [Most Useful and Amazing CyberSec & Bug Bounty Books](#Books)
 - [Self Help Books](#self-help-books)
 - Bug Bounty Material
