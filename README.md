@@ -272,16 +272,45 @@
 
 ### Customized Tools by me
 
-[1. Sub-domain-enumeration](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/sub-domain)
+| Tool Name              | Repository Link                                                                                      |
+|-----------------------|------------------------------------------------------------------------------------------------------|
+| Sub-domain Enumeration| [Sub-domain-enumeration](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/sub-domain)          |
+| Parameter Enumeration | [parameter-enumeration](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/parameter-enumeration)|
+| CRTsh                 | [CRTsh](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/CRTsh)                   |
+| wappalyzer-CLI        | [wappalyzer-CLI](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/wappy)           |
 
-[2. parameter-enumeration](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/parameter-enumeration)
-
-[3. CRTsh](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/CRTsh)
-
-[4. wappalyzer-CLI](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/wappy)
 
 
 ### Vulnerability Report format 
 
-1. [No Rate Limit Vulnerability](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Vulnerability%20Report%20format/No%20Rate%20Limit%20Vulnerability.docx)
+| Report Title                            | Report Link                                                                                              |
+|----------------------------------------|----------------------------------------------------------------------------------------------------------|
+| No Rate Limit Vulnerability Report     | [View Report](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Vulnerability%20Report%20format/No%20Rate%20Limit%20Vulnerability.docx) |
+
+
+### Bug-Bounty Platforms
+
+| No. | Platform           | Website                                      |
+|-----|--------------------|----------------------------------------------|
+| 1.  | HackerOne         | [HackerOne](https://hackerone.com/)         |
+| 2.  | BugCrowd          | [BugCrowd](https://www.bugcrowd.com/)       |
+| 3.  | Open Bug Bounty   | [Open Bug Bounty](https://www.openbugbounty.org/) |
+| 4.  | Intigriti         | [Intigriti](https://www.intigriti.com/)     |
+| 5.  | Detectify         | [Detectify](https://detectify.com/)         |
+| 6.  | Synack            | [Synack](https://www.synack.com/)           |
+| 7.  | Cobalt            | [Cobalt](https://cobalt.io/)                |
+| 8.  | Zerocopter        | [Zerocopter](https://www.zerocopter.com/)   |
+| 9.  | YesWeHack         | [YesWeHack](https://www.yeswehack.com/)     |
+| 10. | KackenProof       | [KackenProof](https://kackenproof.com/)     |
+| 11. | Vulnerability Lab | [Vulnerability Lab](https://www.vulnerability-lab.com/) |
+| 12. | AntiHack          | [AntiHack](https://antihack.me/)            |
+| 13. | FireBounty        | [FireBounty](https://firebounty.com/)       |
+| 14. | BugBounty.jp      | [BugBounty.jp](https://bugbounty.jp/)       |
+| 15. | CyberArmy ID      | [CyberArmy ID](https://www.cyberarmy.id/)   |
+| 16. | Safe Hats         | [Safe Hats](https://safehats.com/)          |
+| 17. | Red Storm         | [Red Storm](https://redstorm.io/)           |
+| 18. | Yogosha           | [Yogosha](https://www.yogosha.com/)         |
+| 19. | bugbase           | [bugbase](https://bugbase.io/)              |
+
+
 
