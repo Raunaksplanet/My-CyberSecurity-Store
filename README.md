@@ -141,3 +141,80 @@
 | 10    | cant hurt me                                        | [cant hurt me](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/cant%20hurt%20me.pdf)                                    |
 | 11    | do it today                                         | [do it today](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/do%20it%20today%20.pdf)                                     |
 | 12    | eat the frog                                        | [eat the frog](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Self%20Help%20Books/eat%20the%20frog.pdf)                                    |
+
+
+# Bug-Bounty Material 
+### My Methodology 
+
+• Always try to chain vulnerability one to another  to increase the severity
+
+• finding vulnerability is half the war and then selling that vulnerability is half war
+
+• Use a proxy and check all the resources that are being called when you visit a site or application
+
+### 1. XSS (Cross Site Scripting): 
+    • find paramter/enpoints/input fields
+    • try different payloads according to the waf
+    • image and javascript: payload are most common
+
+
+### 2. CSRF(Cross site request forgery):
+    • Allow's an attacker to perform an action they don't intend to perform
+    • delete a/c, change email, change password, if old password not req,
+        add new role if role system exist, change normal information, last/first name, 
+        change profile picture/delete it post xss to csrf
+    • CSRF Bypasses:    Delete token and send request with blank parameter
+                        Delete token parameter
+                        Change request from POST to GET
+                        Change Body encoding
+                        Replace token with random value
+                        Delete referee or use this line in CSRF file | <meta name="referrer" content="no-referrer"> 
+                        Use another user token
+                        Changing one character in token, Content length bypass 
+
+### 3. IDOR(Insecure direct object referance): 
+    • Attacker exploit this vulnerability to access unauthorize data by manupilating parameters in request
+    • Always required two accounts for ID paramters 
+    • check for id which seems in order, in victim account copy to attacker account and id response is 200 idor is successfull
+    • id types:- 
+            Decimal shorter than 8 digits
+            decimal 8 or more digits
+            Name/email
+            uuid
+            other - non-bruteforceable
+            Hexadecimal 8 more digits
+            other - bruteforceable
+            hash
+
+### 4. SSRF(server side request forgery):
+    • It's a vulnerability that allows an attacker to cause the server-side application to make request to unintended location
+
+### 5. OpenRedirect:
+    • Mostly leverage this vulnerability while loging/logout page may redirected to another page.
+    • Observe the url in burpsuite
+    • check out github file for eg: https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Open-Redirect-Example.txt
+
+### 6. Account takeover:
+    • most vulnerable functionality is password reset 
+    • Ways of ACT
+        1. Oauth
+        2. JWT verification
+        3. No rate limit on OTP verification on password reset
+        5. OTP Bypass Through Response Manipulation
+        6. idor
+
+### 7. Information Disclosure: 
+    • offten times happen due to IDOR or unsecured endpoint
+    • check the response and source code values that can be hardcoded
+
+### 8. FIle upload vulnerability 
+    • Mostly found in support chat file upload 
+    • upload normal and file and intercept the request, file data can be changed to malicious content using burpsuite
+    • Some times using developer tool to change the file type from img to text can lead to xss due to less checking at backend.
+
+### 9. HTTP parameter pollution
+    • https://twitter.com/i/u?iid=F6542&uid=1134885524&nid=22+26&sig=647192e86e28fb6691db2502c5ef6cf3xxx
+    • Notice the parameter UID. This UID happens to be the user ID of the currently signed-in Twitter account. 
+      After noticing the UID, Tasci did what most hackers would do—he tried changing the UID to that of
+      another user, but nothing happened. Twitter just returned an error. Tasci tried adding a second UID parameter
+      so the URL looked like this Success! He managed to unsubscribe another user from their email notifications
