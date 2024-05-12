@@ -12,7 +12,7 @@
 - Basic Linux & Windows Commands
 - Learn programming & Scripting Languages for CyberSec
 - Basic of CyberSec
-- Uniersity Syllabus 
+- University Syllabus 
 
 # Learn To Use WSL
 ### 1. Installation   
