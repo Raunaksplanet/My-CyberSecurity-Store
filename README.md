@@ -268,3 +268,14 @@
 | The JSON Web Token Toolkit  | [https://github.com/ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool)                                 |
 | **WAF**                     |                                                                                                           |
 | wafw00f                     | [https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)                     |
+
+
+### Customized Tools by me
+
+[1. Sub-domain-enumeration](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/sub-domain)
+
+[2. parameter-enumeration](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/parameter-enumeration)
+
+[3. CRTsh](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/CRTsh)
+
+[4. wappalyzer-CLI](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/wappy)
