@@ -7,7 +7,7 @@
 - [Learn To Use WSL](#learn-to-use-wsl)
 - [Most Useful and Amazing CyberSec & Bug Bounty Books](#Books)
 - [Self Help Books](#self-help-books)
-- Bug Bounty Material
+- [Bug Bounty Material](#bug-bounty-material)
 - Comptia Exam's Topic
 - Basic Linux & Windows Commands
 - Learn programming & Scripting Languages for CyberSec
@@ -279,3 +279,9 @@
 [3. CRTsh](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/CRTsh)
 
 [4. wappalyzer-CLI](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/wappy)
+
+
+### Vulnerability Report format 
+
+1. [No Rate Limit Vulnerability](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Vulnerability%20Report%20format/No%20Rate%20Limit%20Vulnerability.docx)
+
