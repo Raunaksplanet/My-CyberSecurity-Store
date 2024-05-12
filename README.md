@@ -14,7 +14,7 @@
 - Basic of CyberSec
 - Uniersity Syllabus 
 
-# Learn To Use WSL (Windows System for linux)
+# Learn To Use WSL
 ### 1. Installation   
           1.1 Enable these two features in Windows Feature app.
               • Windows Subsystem for Linux
