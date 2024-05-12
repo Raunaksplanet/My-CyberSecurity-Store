@@ -220,54 +220,61 @@
       so the URL looked like this Success! He managed to unsubscribe another user from their email notifications
 
 ### Bug-Bounty Tools
-| Recon                       | Link                                                                                                      |
-|-----------------------------|-----------------------------------------------------------------------------------------------------------|
-| **DNS Discovery**           |                                                                                                           |
-| Sublist3r                   | [https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)                           |
-| enumall                     | [https://github.com/jhaddix/domain/](https://github.com/jhaddix/domain/)                                   |
-| massdns                     | [https://github.com/blechschmidt/massdns](https://github.com/blechschmidt/massdns)                         |
-| altdns                      | [https://github.com/infosec-au/altdns](https://github.com/infosec-au/altdns)                               |
-| dns-parallel-prober         | [https://github.com/lorenzog/dns-parallel-prober](https://github.com/lorenzog/dns-parallel-prober)       |
-| dnscan                      | [https://github.com/rbsec/dnscan](https://github.com/rbsec/dnscan)                                         |
-| **Port Scan**               |                                                                                                           |
-| nmap                        | [https://nmap.org](https://nmap.org)                                                                       |
-| masscan                     | [https://github.com/robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)             |
-| Rust Scan                   | [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)                               |
-| **Screenshots**             |                                                                                                           |
-| EyeWitness                  | [https://github.com/ChrisTruncer/EyeWitness](https://github.com/ChrisTruncer/EyeWitness)                   |
-| httpscreenshot              | [https://github.com/breenmachine/httpscreenshot/](https://github.com/breenmachine/httpscreenshot/)       |
-| **Web Discovery**           |                                                                                                           |
-| DirBuster                   | [https://sourceforge.net/projects/dirbuster/](https://sourceforge.net/projects/dirbuster/)                 |
-| dirb                        | [http://dirb.sourceforge.net/](http://dirb.sourceforge.net/)                                             |
-| gobuster                    | [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)                                           |
-| wfuzz                       | [https://github.com/xmendez/wfuzz/](https://github.com/xmendez/wfuzz/)                                     |
-| FFUF                        | [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)                                               |
-| DirSearch                   | [https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)                         |
-| hydra                       | [https://github.com/vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra)                   |
-| changeme                    | [https://github.com/ztgrace/changeme](https://github.com/ztgrace/changeme)                                 |
-| truffleHog                  | [https://github.com/dxa4481/truffleHog](https://github.com/dxa4481/truffleHog)                             |
-| **Google Dorks**            |                                                                                                           |
-| pentest tools               | [https://pentest-tools.com/information-gathering/google-hacking](https://pentest-tools.com/information-gathering/google-hacking) |
-| taksec                      | [https://taksec.github.io/google-dorks-bug-bounty/](https://taksec.github.io/google-dorks-bug-bounty/) |
-| faisalahmed                 | [https://dorks.faisalahmed.me/](https://dorks.faisalahmed.me/)                                             |
-| nitinyadav00                | [https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/](https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/) |
-| **Parameters Enumeration**  |                                                                                                           |
-| parameth                    | [https://github.com/mak-/parameth](https://github.com/mak-/parameth)                                       |
-| **Wayback Machine**         |                                                                                                           |
-| Wayback Machine             | [https://web.archive.org](https://web.archive.org)                                                       |
-| waybackurls                 | [https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)                       |
-| gau                         | [https://github.com/lc/gau](https://github.com/lc/gau)                                                     |
-| **Technology Detection**    |                                                                                                           |
-| wappalyzer                  | [https://wappalyzer.com/](https://wappalyzer.com/)                                                         |
-| wappalyzer-cli              | [https://github.com/gokulapap/wappalyzer-cli](https://github.com/gokulapap/wappalyzer-cli)                 |
-| **CMS**                     |                                                                                                           |
-| WPScan                      | [https://wpscan.org/](https://wpscan.org/)                                                                 |
-| CMSMap                      | [https://github.com/Dionach/CMSmap](https://github.com/Dionach/CMSmap)                                     |
-| joomscan                    | [https://github.com/rezasp/joomscan](https://github.com/rezasp/joomscan)                                   |
-| **JWT**                     |                                                                                                           |
-| The JSON Web Token Toolkit  | [https://github.com/ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool)                                 |
-| **WAF**                     |                                                                                                           |
-| wafw00f                     | [https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)                     |
+| Index | Recon                       | Link                                                                                                      |
+|-------|-----------------------------|-----------------------------------------------------------------------------------------------------------|
+| 1     | **DNS Discovery**           |                                                                                                           |
+|       | Sublist3r                   | [https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)                           |
+|       | enumall                     | [https://github.com/jhaddix/domain/](https://github.com/jhaddix/domain/)                                   |
+|       | massdns                     | [https://github.com/blechschmidt/massdns](https://github.com/blechschmidt/massdns)                         |
+|       | altdns                      | [https://github.com/infosec-au/altdns](https://github.com/infosec-au/altdns)                               |
+|       | dns-parallel-prober         | [https://github.com/lorenzog/dns-parallel-prober](https://github.com/lorenzog/dns-parallel-prober)       |
+|       | dnscan                      | [https://github.com/rbsec/dnscan](https://github.com/rbsec/dnscan)                                         |
+| 2     | **Port Scan**               |                                                                                                           |
+|       | nmap                        | [https://nmap.org](https://nmap.org)                                                                       |
+|       | masscan                     | [https://github.com/robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)             |
+|       | Rust Scan                   | [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)                               |
+| 3     | **Screenshots**             |                                                                                                           |
+|       | EyeWitness                  | [https://github.com/ChrisTruncer/EyeWitness](https://github.com/ChrisTruncer/EyeWitness)                   |
+|       | httpscreenshot              | [https://github.com/breenmachine/httpscreenshot/](https://github.com/breenmachine/httpscreenshot/)       |
+| 4     | **Web Discovery**           |                                                                                                           |
+|       | DirBuster                   | [https://sourceforge.net/projects/dirbuster/](https://sourceforge.net/projects/dirbuster/)                 |
+|       | dirb                        | [http://dirb.sourceforge.net/](http://dirb.sourceforge.net/)                                             |
+|       | gobuster                    | [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)                                           |
+|       | wfuzz                       | [https://github.com/xmendez/wfuzz/](https://github.com/xmendez/wfuzz/)                                     |
+|       | FFUF                        | [https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)                                               |
+|       | DirSearch                   | [https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)                         |
+|       | hydra                       | [https://github.com/vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra)                   |
+|       | changeme                    | [https://github.com/ztgrace/changeme](https://github.com/ztgrace/changeme)                                 |
+|       | truffleHog                  | [https://github.com/dxa4481/truffleHog](https://github.com/dxa4481/truffleHog)                             |
+| 5     | **Google Dorks**            |                                                                                                           |
+|       | pentest tools               | [https://pentest-tools.com/information-gathering/google-hacking](https://pentest-tools.com/information-gathering/google-hacking) |
+|       | taksec                      | [https://taksec.github.io/google-dorks-bug-bounty/](https://taksec.github.io/google-dorks-bug-bounty/) |
+|       | faisalahmed                 | [https://dorks.faisalahmed.me/](https://dorks.faisalahmed.me/)                                             |
+|       | nitinyadav00                | [https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/](https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/) |
+| 6     | **Parameters Enumeration**  |                                                                                                           |
+|       | parameth                    | [https://github.com/mak-/parameth](https://github.com/mak-/parameth)                                       |
+| 7     | **Wayback Machine**         |                                                                                                           |
+|       | Wayback Machine             | [https://web.archive.org](https://web.archive.org)                                                       |
+|       | waybackurls                 | [https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)                       |
+|       | gau                         | [https://github.com/lc/gau](https://github.com/lc/gau)                                                     |
+| 8     | **Technology Detection**    |                                                                                                           |
+|       | wappalyzer                  | [https://wappalyzer.com/](https://wappalyzer.com/)                                                         |
+|       | wappalyzer-cli              | [https://github.com/gokulapap/wappalyzer-cli](https://github.com/gokulapap/wappalyzer-cli)                 |
+| 9     | **CMS**                     |                                                                                                           |
+|       | WPScan                      | [https://wpscan.org/](https://wpscan.org/)                                                                 |
+|       | CMSMap                      | [https://github.com/Dionach/CMSmap](https://github.com/Dionach/CMSmap)                                     |
+|       | joomscan                    | [https://github.com/rezasp/joomscan](https://github.com/rezasp/joomscan)                                   |
+| 10    | **JWT**                     |                                                                                                           |
+|       | The JSON Web Token Toolkit  | [https://github.com/ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool)                                 |
+| 11    | **WAF**                     |                                                                                                           |
+|       | wafw00f                     | [https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)                     |
+| 12    | **GraphQL**                 |                                                                                                           |
+|       | GraphQLmap                  | [https://github.com/swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)                     |
+|       | InQL v5.0 - Burp Extension | [https://github.com/doyensec/inql](https://github.com/doyensec/inql)                                       |
+|       | clairvoyancex               | [https://github.com/y0k4i-1337/clairvoyancex](https://github.com/y0k4i-1337/clairvoyancex)                 |
+|       | CrackQL                     | [https://github.com/nicholasaleks/CrackQL](https://github.com/nicholasaleks/CrackQL)                       |
+|       | Clairvoyance                | [https://github.com/nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance)               |
+|       | graphql-voyager             | [https://graphql-kit.com/graphql-voyager/](https://graphql-kit.com/graphql-voyager/)                       |
 
 
 ### Customized Tools by me
