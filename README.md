@@ -123,6 +123,7 @@
 | 26    | Real-World Bug Hunting - A Field Guide to Web Hacking| [Real-World Bug Hunting - A Field Guide to Web Hacking](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking.pdf)|
 | 27    | Penetration Testing - A hands-on introduction to Hacking | [Penetration Testing - A hands-on introduction to Hacking](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf)|
 | 28    | The Hacker Playbook 3 - Practical Guide To Penetration Testing | [The Hacker Playbook 3 - Practical Guide To Penetration Testing](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/The%20Hacker%20Playbook%203%20-%20Practical%20Guide%20To%20Penetration%20Testing.pdf)|
+| 29    | Enumerating Esoteric Attack Surfaces by Jann Moon | [Enumerating Esoteric Attack Surfaces by Jann Moon](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Enumerating%20Esoteric%20Attack%20Surfaces%20by%20Jann%20Moon.pdf)|
 
 
 # Self-Help Books
