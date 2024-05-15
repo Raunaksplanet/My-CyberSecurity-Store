@@ -52,7 +52,7 @@ crtsh -f "$file_path" | tee 4;
 
 # chaos
 echo -e "${PURPLE}5. Chaos${NC}"
-echo "Enter program name: "
+echo "Enter program name or press enter to skip chaos tool: "
 read user_input
 
 # Store the input in a variable
