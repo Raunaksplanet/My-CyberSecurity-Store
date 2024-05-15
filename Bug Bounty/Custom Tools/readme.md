@@ -1,9 +1,9 @@
 # Some Custom Tools By Me
-    Here are some Custom tools which I made to ease the process of reconnaissance 
-    Total 2 scripts I wrote and and modify a existing script including.
+    Here are some Custom tools which I made to ease the process of reconnaissance, Total 2 scripts I wrote and modify a existing script including.
+    
     1. sub-domain: Use to enumearte sub-domain using 5 tools in a single script.
     2. parameter-enumeration: Use to enumerate parameters using Katana and waybackurls.
-    3. CRTsh: Modified crtsh to input a file of multiple domains and not a single url.
+    3. CRTsh: Modified crtsh to input a file containing domains and not a single url.
 
 ## Sub Domain
 
