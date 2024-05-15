@@ -20,7 +20,12 @@ CYAN='\033[0;36m'
 
 # Check if the user provided a filename argument
 if [ $# -eq 0 ]; then
-    echo "Usage: $0 <filename>"
+    echo "+ Usage: $0 <filename>"
+    echo "+ Required Tools :
+           1. Sub-finder  : https://github.com/Findomain/Findomain?tab=readme-ov-file
+           2. assetfinder : https://github.com/tomnomnom/assetfinder
+           3. Findomain   : https://github.com/Findomain/Findomain?tab=readme-ov-file
+           4. crtsh       : https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Custom%20Tools/CRTsh"
     exit 1
 elif [ ! -f "$1" ]; then
     echo "File '$1' does not exist."
