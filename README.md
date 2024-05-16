@@ -95,7 +95,7 @@
 
 | Index | Book Name                                           | Book Link                                            | Interesting |
 |-------|-----------------------------------------------------|------------------------------------------------------|-------------|
-| 1     | Cyberjutsu                                          | [Cyberjutsu](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Cyberjutsu.pdf)                                      | Yes         |
+| 1     | Cyberjutsu                                          | [Cyberjutsu](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Cyberjutsu.pdf)                                      | no         |
 | 2     | Black-Hat-Go                                        | [Black-Hat-Go](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Black-Hat-Go.pdf)                                    | Yes          |
 | 3     | Violent Python                                      | [Violent Python](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Violent%20Python.pdf)                                  | Yes         |
 | 4     | Black-Hat-Bash                                      | [Black-Hat-Bash](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Black-Hat-Bash.pdf)                                  | Yes          |
