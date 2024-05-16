@@ -124,7 +124,7 @@
 | 27    | Penetration Testing - A hands-on introduction to Hacking | [Penetration Testing - A hands-on introduction to Hacking](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf)| Yes         |
 | 28    | The Hacker Playbook 3 - Practical Guide To Penetration Testing | [The Hacker Playbook 3 - Practical Guide To Penetration Testing](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/The%20Hacker%20Playbook%203%20-%20Practical%20Guide%20To%20Penetration%20Testing.pdf)| no |
 | 29 | Enumerating Esoteric Attack Surfaces by Jann Moon |[Enumerating Esoteric Attack Surfaces by Jann Moon](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Enumerating%20Esoteric%20Attack%20Surfaces%20by%20Jann%20Moon.pdf)| Yes |
-| 30 | Practical Packet Analysis | [Practical Packet Analysis](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Practical%20Packet%20Analysis.pdf) | Yes |
+| 30 | Practical Packet Analysis | [Practical Packet Analysis](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/practical%20packet%20analysis%203rd%20edition.pdf) | Yes |
 
 # Self-Help Books
 
