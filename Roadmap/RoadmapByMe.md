@@ -105,9 +105,9 @@
 - [Metasploitable (Linux)](#)
 
 ## CS Certifications
-	- **Comptia**: A+, Security+, Network+, Linux+, Pentest+, CySa+, casp+, ITF+
-	- **EC-COUNCIL**: CEH
-	- **Ine-Security**: eJPT, eWPTX
+	1. Comptia: A+, Security+, Network+, Linux+, Pentest+, CySa+, casp+, ITF+
+	2. EC-COUNCIL: CEH
+	3. Ine-Security: eJPT, eWPTX
 
 ## Topics related to CS
 - [Reverse & bind shell](https://medium.com/bugbountywriteup/reverse-shell-vs-bind-shell-d5a1e80b6a6c)
@@ -130,10 +130,10 @@
 - [Technical MotaBhai](https://www.youtube.com/playlist?list=PLBCWFgREB971jxEXKbiAZSNQZqIxH9L47)
 
 ### Common CyberSec Tools
-	- maltego, BurpSuite, Metasploit, Air-crack-ng, JohnTheRipper
-	- SQLMap, netcat, hashcat, kismet, wifite
-	- dirbuster, nikto, sublister, nmap, FFUF
-	- Katana, BinWalk, Masscan, Hydra, Hashid
-	- Crunch, snort, ltrace, subfinder, Rust Scan
-	- HTTTPX, Zap, FeroxBuster, Steghide, Which
-	- Wheris, find, locate
+	1. maltego, BurpSuite, Metasploit, Air-crack-ng, JohnTheRipper
+	2. SQLMap, netcat, hashcat, kismet, wifite
+	3. dirbuster, nikto, sublister, nmap, FFUF
+	4. Katana, BinWalk, Masscan, Hydra, Hashid
+	5. Crunch, snort, ltrace, subfinder, Rust Scan
+	6. HTTTPX, Zap, FeroxBuster, Steghide, Which
+	7. Wheris, find, locate
