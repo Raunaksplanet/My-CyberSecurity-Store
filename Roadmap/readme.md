@@ -1,14 +1,14 @@
 # Roadmap By Me
 	All the resources, Roadmap, CTF, programming knowledge, YT channels related to Cyber Security
  	are documented here.
-## Linux
-1. **Linux Command Line**:
+## Learn Linux
+1. **Learn Linux Command Line**:
    - [The Cyber Mentor](https://www.youtube.com/watch?v=U1w4T03B30I&list=LL&index=386)
    - [freeCodeCamp.org](https://www.youtube.com/watch?v=ZtqBQ68cfJc&list=LL&index=404)
    - [The Cyber Mentor](https://www.youtube.com/watch?v=rZsJieGi8os&list=LL&index=406)
    - [HackerSploit](https://www.youtube.com/watch?v=rZsJieGi8os&list=LL&index=406)
 
-2. **Linux File System**:
+2. **Learn Linux File System**:
    - [NeuralNine](https://www.youtube.com/watch?v=BUnb1PKKMBA)
    - [Edureka](https://www.youtube.com/watch?v=ePN5igV9ZpY&list=LL&index=235)
    - [NetworkChuck](https://www.youtube.com/watch?v=A3G-3hp88mo&list=LL&index=399)
@@ -79,12 +79,14 @@
 	4. Markdown
 	5. TOML
 
-## Top Platform to learn any Programming Language 
+## Top Platforms to Learn any Programming Language 
 
+1. [JavaTpoint](https://www.javatpoint.com/)
+2. [W3Schools](https://www.w3schools.com/)
+3. [GeeksforGeeks](https://www.geeksforgeeks.org/)
+4. [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
+5. [HackerRank](https://www.hackerrank.com/)
 
-
-## Youtube CS Courses/Playlist
-- **freeCodeCamp**: PicoCTF ([Playlist](https://www.youtube.com/watch?v=uIkxsBgkpj8&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&index=3))
 
 ## Intentionally Vulnerable Applications to Practice or CTF Websites
 - [TryHackMe](https://tryhackme.com/)
