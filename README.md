@@ -125,6 +125,12 @@
 | 28    | The Hacker Playbook 3 - Practical Guide To Penetration Testing | [The Hacker Playbook 3 - Practical Guide To Penetration Testing](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/The%20Hacker%20Playbook%203%20-%20Practical%20Guide%20To%20Penetration%20Testing.pdf)| no |
 | 29 | Enumerating Esoteric Attack Surfaces by Jann Moon |[Enumerating Esoteric Attack Surfaces by Jann Moon](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Enumerating%20Esoteric%20Attack%20Surfaces%20by%20Jann%20Moon.pdf)| no |
 | 30 | Practical Packet Analysis | [Practical Packet Analysis](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/practical%20packet%20analysis%203rd%20edition.pdf) | Yes |
+| 31 | Wicked Cool Shell Scripts.pdf | [Wicked Cool Shell Scripts.pdf](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Wicked%20Cool%20Shell%20Scripts.pdf) | Yes |
+| 32 | Wicked Cool Perl Scripts | [Wicked Cool Perl Scripts](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Wicked%20Cool%20Perl%20Scripts.pdf) | Yes |
+| 33 | wicked-cool-ruby-scripts | [wicked-cool-ruby-scripts](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/wicked-cool-ruby-scripts.pdf) | Yes |
+| 34 | perl-one-liners | [perl-one-liners](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/perl-one-liners.pdf) | Yes |
+| 35 | the-book-of-ruby | [the-book-of-ruby](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/the-book-of-ruby.pdf) | Yes |
+| 36 | Ruby by Example | [Ruby by Example](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Ruby%20by%20Example.pdf) | Yes |
 
 # Self-Help Books
 
