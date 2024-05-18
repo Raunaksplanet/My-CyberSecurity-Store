@@ -134,6 +134,7 @@
 | 37 | PowerShell_for_Sysadmins | [PowerShell_for_Sysadmins](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/PowerShell_for_Sysadmins.pdf) | Yes |
 | 38 | Webbots, Spiders, and Screen Scrapers | [Webbots, Spiders, and Screen Scrapers](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Webbots%2C%20Spiders%2C%20and%20Screen%20Scrapers.pdf) | Yes |
 | 39 | mining-social-media | [mining-social-media](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/mining-social-media.pdf) | Yes |
+| 40 | How-Linux-Works | [How-Linux-Works](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/How-Linux-Works.pdf) | Yes |
 
 # Self-Help Books
 
