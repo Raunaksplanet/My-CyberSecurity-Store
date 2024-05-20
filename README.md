@@ -131,7 +131,7 @@
 | 33 | wicked-cool-ruby-scripts | [wicked-cool-ruby-scripts](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/wicked-cool-ruby-scripts.pdf) | Yes |
 | 34 | perl-one-liners | [perl-one-liners](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/perl-one-liners.pdf) | Yes |
 | 35 | the-book-of-ruby | [the-book-of-ruby](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/the-book-of-ruby.pdf) | Yes |
-| 36 | Ruby by Example | [Ruby by Example](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Ruby%20by%20Example.pdf) | Yes |
+| 36 | Ruby by Example | [Ruby by Example](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Ruby%20by%20Example.pdf) | no |
 | 37 | PowerShell_for_Sysadmins | [PowerShell_for_Sysadmins](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/PowerShell_for_Sysadmins.pdf) | Yes |
 | 38 | Webbots, Spiders, and Screen Scrapers | [Webbots, Spiders, and Screen Scrapers](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Webbots%2C%20Spiders%2C%20and%20Screen%20Scrapers.pdf) | no |
 | 39 | mining-social-media | [mining-social-media](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/mining-social-media.pdf) | Yes |
