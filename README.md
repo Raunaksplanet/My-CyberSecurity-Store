@@ -9,6 +9,7 @@
 - [Self Help Books](#self-help-books)
 - [Bug Bounty Material](#bug-bounty-material)
 - [People to Follow on Twitter](#people-to-Follow-on-Twitter)
+- [People to Follow on Medium](#people-to-Follow-on-Medium)
 - Comptia Exam's Topic
 - Basic Linux & Windows Commands
 - Learn programming & Scripting Languages for CyberSec
@@ -500,4 +501,60 @@
 | 162   | hacktricks_live   | [Profile](https://x.com/hacktricks_live) |
 | 163   | harshbothra_      | [Profile](https://x.com/harshbothra_) |
 
+# People to follow on Medium
+
+# People to follow on Medium
+
+| Username           | Profile URL                                     |
+|--------------------|-------------------------------------------------|
+| 19whoami19         | [medium.com/@19whoami19](https://medium.com/@19whoami19)         |
+| 7h3h4ckv157        | [medium.com/@7h3h4ckv157](https://medium.com/@7h3h4ckv157)       |
+| Ajakcybersecurity  | [medium.com/@Ajakcybersecurity](https://medium.com/@Ajakcybersecurity) |
+| Hacker0x01         | [medium.com/@Hacker0x01](https://medium.com/@Hacker0x01)         |
+| ahmdhalabi         | [medium.com/@ahmdhalabi](https://medium.com/@ahmdhalabi)         |
+| aniketdas07770     | [medium.com/@aniketdas07770](https://medium.com/@aniketdas07770) |
+| anmol.sh           | [medium.com/@anmol.sh](https://medium.com/@anmol.sh)             |
+| apexvicky          | [medium.com/@apexvicky](https://medium.com/@apexvicky)           |
+| arunkl_author      | [medium.com/@arunkl_author](https://medium.com/@arunkl_author)   |
+| avbhijitdutta99    | [medium.com/@avbhijitdutta99](https://medium.com/@avbhijitdutta99) |
+| bamania-ashish     | [medium.com/@bamania-ashish](https://medium.com/@bamania-ashish) |
+| bug_vs_me          | [medium.com/@bug_vs_me](https://medium.com/@bug_vs_me)           |
+| bxmbn              | [medium.com/@bxmbn](https://medium.com/@bxmbn)                   |
+| canmustdie         | [medium.com/@canmustdie](https://medium.com/@canmustdie)         |
+| cristivlad         | [medium.com/@cristivlad](https://medium.com/@cristivlad)         |
+| cupc4k3            | [medium.com/@cupc4k3](https://medium.com/@cupc4k3)               |
+| geekymuch          | [medium.com/@geekymuch](https://medium.com/@geekymuch)           |
+| hacktivator        | [medium.com/@hacktivator](https://medium.com/@hacktivator)       |
+| hari-haran-s       | [medium.com/@hari-haran-s](https://medium.com/@hari-haran-s)     |
+| hbenja47           | [medium.com/@hbenja47](https://medium.com/@hbenja47)             |
+| hbothra22          | [medium.com/@hbothra22](https://medium.com/@hbothra22)           |
+| iggyyuson09        | [medium.com/@iggyyuson09](https://medium.com/@iggyyuson09)       |
+| jake.mayhew        | [medium.com/@jake.mayhew](https://medium.com/@jake.mayhew)       |
+| jay_rana           | [medium.com/@jay_rana](https://medium.com/@jay_rana)             |
+| jedus0r            | [medium.com/@jedus0r](https://medium.com/@jedus0r)               |
+| karimelsayed0x1    | [medium.com/@karimelsayed0x1](https://medium.com/@karimelsayed0x1) |
+| kuroH              | [medium.com/@kuroH](https://medium.com/@kuroH)                   |
+| mchklt             | [medium.com/@mchklt](https://medium.com/@mchklt)                 |
+| mo9khu93r          | [medium.com/@mo9khu93r](https://medium.com/@mo9khu93r)           |
+| nadaparaananta     | [medium.com/@nadaparaananta](https://medium.com/@nadaparaananta) |
+| nairuzabulhul      | [medium.com/@nairuzabulhul](https://medium.com/@nairuzabulhul)   |
+| nullr3x            | [medium.com/@nullr3x](https://medium.com/@nullr3x)               |
+| nvk0x              | [medium.com/@nvk0x](https://medium.com/@nvk0x)                   |
+| ott3rly            | [medium.com/@ott3rly](https://medium.com/@ott3rly)               |
+| p.ra.dee.p_0xx01   | [medium.com/@p.ra.dee.p_0xx01](https://medium.com/@p.ra.dee.p_0xx01) |
+| ph-hitachi         | [medium.com/@ph-hitachi](https://medium.com/@ph-hitachi)         |
+| raia39499          | [medium.com/@raia39499](https://medium.com/@raia39499)           |
+| ravaan21           | [medium.com/@ravaan21](https://medium.com/@ravaan21)             |
+| red.whisperer      | [medium.com/@red.whisperer](https://medium.com/@red.whisperer)   |
+| sM0ky4             | [medium.com/@sM0ky4](https://medium.com/@sM0ky4)                 |
+| shahjerry33        | [medium.com/@shahjerry33](https://medium.com/@shahjerry33)       |
+| the_harvester      | [medium.com/@the_harvester](https://medium.com/@the_harvester)   |
+| tomlitchfield      | [medium.com/@tomlitchfield](https://medium.com/@tomlitchfield)   |
+| tushara2517        | [medium.com/@tushara2517](https://medium.com/@tushara2517)       |
+| v3d                | [medium.com/@v3d](https://medium.com/@v3d)                       |
+| vickieli           | [medium.com/@vickieli](https://medium.com/@vickieli)             |
+| virdoexhunter      | [medium.com/@virdoexhunter](https://medium.com/@virdoexhunter)   |
+| viveknaskar        | [medium.com/@viveknaskar](https://medium.com/@viveknaskar)       |
+| xamiron            | [medium.com/@xamiron](https://medium.com/@xamiron)               |
+| zseano             | [medium.com/@zseano](https://medium.com/@zseano)                 |
 
