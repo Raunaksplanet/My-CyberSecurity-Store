@@ -503,7 +503,6 @@
 
 # People to follow on Medium
 
-# People to follow on Medium
 
 | Username           | Profile URL                                     |
 |--------------------|-------------------------------------------------|
