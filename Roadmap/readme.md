@@ -86,7 +86,7 @@
 3. [GeeksforGeeks](https://www.geeksforgeeks.org/)
 4. [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
 5. [HackerRank](https://www.hackerrank.com/)
-
+6. [Programiz](https://www.programiz.com/)
 
 ## Intentionally Vulnerable Applications to Practice or CTF Websites
 - [TryHackMe](https://tryhackme.com/)
