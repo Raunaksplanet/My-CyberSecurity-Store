@@ -653,12 +653,12 @@
 
 ## Top Platforms to Learn any Programming Language 
 
-	1. [JavaTpoint](https://www.javatpoint.com/)
-	2. [W3Schools](https://www.w3schools.com/)
-	3. [GeeksforGeeks](https://www.geeksforgeeks.org/)
-	4. [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
-	5. [HackerRank](https://www.hackerrank.com/)
-	6. [Programmiz](https://www.programiz.com/)
+1. [JavaTpoint](https://www.javatpoint.com/)
+2. [W3Schools](https://www.w3schools.com/)
+3. [GeeksforGeeks](https://www.geeksforgeeks.org/)
+4. [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
+5. [HackerRank](https://www.hackerrank.com/)
+6. [Programmiz](https://www.programiz.com/)
 
 
 ## Intentionally Vulnerable Applications to Practice or CTF Websites
