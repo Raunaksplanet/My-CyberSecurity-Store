@@ -11,9 +11,12 @@ Welcome to the Learn Rust Programming repository! This repository is designed to
 |[Running PowerShell scripts without enabling Set-ExecutionPolicy RemoteSigned](#Running-PowerShell-scripts-without-enabling-Set-ExecutionPolicy-RemoteSigned) | Instructions on how to run scripts without changing execution policy |
 | [Powershell Learning Resources](#Powershell-Learning-Resources)              | A collection of resources for learning PowerShell        |
 
+<h1>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h1>
+
 # Index
 | Index | File Name                | Link                                                                                                        |
 
+<h1>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h1>
 
 # Enable script-execution-policy on your local system
 1. Open PowerShell as Administrator:
@@ -68,7 +71,7 @@ as this can pose security risks by allowing the execution of potentially malicio
 For more detailed information on execution policies, you can refer to the official Microsoft documentation:
  [about_Execution_Policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies).
 
-
+<h1>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h1>
 
 # Running PowerShell scripts without enabling Set-ExecutionPolicy RemoteSigned
 
@@ -142,6 +145,7 @@ Run the script directly within PowerShell ISE, which might not be restricted by 
 2. Load your script.
 3. Press `F5` to run the script.
 
+<h1>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h1>
 
 # Powershell Learning Resources
 
