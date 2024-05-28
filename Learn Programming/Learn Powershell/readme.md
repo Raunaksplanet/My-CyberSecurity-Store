@@ -6,9 +6,9 @@ Welcome to the Learn Rust Programming repository! This repository is designed to
 
 | Section                                                                      | Description                                              |
 |------------------------------------------------------------------------------|----------------------------------------------------------|
-| [Enable scripts execution on your local system](#Enable-script-execution-policy-on-your-local-system) | Instructions on how to enable script execution on your system |
 | [Topics](#Index)                                                             | A list of topics covered in this repository              |
 | [Running PowerShell scripts without enabling Set-ExecutionPolicy RemoteSigned](#Running-PowerShell-scripts-without-enabling-Set-ExecutionPolicy-RemoteSigned) | Instructions on how to run scripts without changing execution policy |
+| [Enable scripts execution on your local system](#Enable-script-execution-policy-on-your-local-system) | Instructions on how to enable script execution on your system |
 | [Powershell Learning Resources](#Powershell-Learning-Resources)              | A collection of resources for learning PowerShell        |
 
 # Index
