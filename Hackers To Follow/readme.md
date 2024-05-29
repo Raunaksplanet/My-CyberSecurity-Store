@@ -1,3 +1,9 @@
+# Index
+[1. Twitter](#People-to-Follow-on-Twitter)
+[2. Medium](#People-to-Follow-on-Medium)
+[3. YouTube](#People-to-Follow-on-Youtube)
+
+
 # People to Follow on Twitter
 
 | Index | Username          | Profile Link            |
