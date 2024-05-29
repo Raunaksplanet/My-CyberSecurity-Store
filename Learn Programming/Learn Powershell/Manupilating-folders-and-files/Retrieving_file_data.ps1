@@ -1,0 +1,1 @@
+Get-Content D:\temp\Test\test.txt
