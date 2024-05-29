@@ -1,5 +1,5 @@
 # Learn Powershell Programming
-Welcome to the Learn Rust Programming repository! This repository is designed to help you get started with Ruby programming, covering a variety of topics from the basics to more advanced concepts.
+Welcome to the Learn Powershell Programming repository! This repository is designed to help you get started with Ruby programming, covering a variety of topics from the basics to more advanced concepts.
  
 
 # Table
@@ -15,6 +15,22 @@ Welcome to the Learn Rust Programming repository! This repository is designed to
 
 # Index
 | Index | File Name                | Link                                                                                                        |
+|-------|--------------------------|-------------------------------------------------------------------------------------------------------------|
+| 1     | Comments                 | [Commentes.ps1](https://github.com/Demouser093/My-CS-Store/blob/main/Learn%20Programming/Learn%20Powershell/Commentes.ps1)                    |
+| 2     | Variables                | [Variables.ps1](https://github.com/Demouser093/My-CS-Store/blob/main/Learn%20Programming/Learn%20Powershell/Variables.ps1)                    |
+| 3     | Data Types               | [data-types.ps1](https://github.com/Demouser093/My-CS-Store/blob/main/Learn%20Programming/Learn%20Powershell/data-types.ps1)                  |
+| 4     | Operators                | [Operators.ps1](https://github.com/Demouser093/My-CS-Store/blob/main/Learn%20Programming/Learn%20Powershell/Operators.ps1)                    |
+| 5     | User Input               | [User-input.ps1](https://github.com/Demouser093/My-CS-Store/blob/main/Learn%20Programming/Learn%20Powershell/User-input.ps1)                  |
+| 6     | Conditional Statements   | [Conditional-statements.ps1](https://github.com/Demouser093/My-CS-Store/blob/main/Learn%20Programming/Learn%20Powershell/Conditional-statements.ps1)  |
+| 7     | Loops                    | [Loops.ps1](https://github.com/Demouser093/My-CS-Store/blob/main/Learn%20Programming/Learn%20Powershell/Loops.ps1)                            |
+| 8     | Functions                | [Functions.ps1](https://github.com/Demouser093/My-CS-Store/blob/main/Learn%20Programming/Learn%20Powershell/Functions.ps1)                    |
+| 9     | Error Handling           | [error-handling.ps1](https://github.com/Demouser093/My-CS-Store/blob/main/Learn%20Programming/Learn%20Powershell/error-handling.ps1)            |
+| 10    | Command-line Arguments   | [Command-line-argument](https://github.com/Demouser093/My-CS-Store/tree/main/Learn%20Programming/Learn%20Powershell/Command-line-argument)      |
+| 11    | Manipulating Folders and Files | [Manupilating-folders-and-files](https://github.com/Demouser093/My-CS-Store/tree/main/Learn%20Programming/Learn%20Powershell/Manupilating-folders-and-files) |
+| 12    | Miscellaneous            | [Miscellaneous](https://github.com/Demouser093/My-CS-Store/tree/main/Learn%20Programming/Learn%20Powershell/Miscellaneous)                      |
+| 13    | Extra                    | [Extra.ps1](https://github.com/Demouser093/My-CS-Store/blob/main/Learn%20Programming/Learn%20Powershell/Extra.ps1)                              |
+
+                                                                                                      |
 
 <h1>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h1>
 
