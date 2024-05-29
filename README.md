@@ -342,11 +342,11 @@
 | 19. | bugbase           | [bugbase](https://bugbase.io/)              |
 
 # People To Follow On Social Media
-- [People to Follow on Twitter](https://github.com/Raunaksplanet/My-CS-Store/edit/main/Hackers%20To%20Follow/readme.md#people-to-follow-on-twitter)
+- [People to Follow on Twitter](https://github.com/Raunaksplanet/My-CS-Store/tree/main/Hackers%20To%20Follow)
 
-- [People to Follow on Medium](https://github.com/Raunaksplanet/My-CS-Store/edit/main/Hackers%20To%20Follow/readme.md#people-to-follow-on-medium)
+- [People to Follow on Medium](https://github.com/Raunaksplanet/My-CS-Store/tree/main/Hackers%20To%20Follow)
 
-- [People to Follow on YouTube](https://github.com/Raunaksplanet/My-CS-Store/edit/main/Hackers%20To%20Follow/readme.md#people-to-follow-on-youtube)
+- [People to Follow on YouTube](https://github.com/Raunaksplanet/My-CS-Store/tree/main/Hackers%20To%20Follow)
 
 
 
