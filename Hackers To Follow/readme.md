@@ -229,6 +229,7 @@
 | viveknaskar        | [medium.com/@viveknaskar](https://medium.com/@viveknaskar)       |
 | xamiron            | [medium.com/@xamiron](https://medium.com/@xamiron)               |
 | zseano             | [medium.com/@zseano](https://medium.com/@zseano)                 |
+| Piyush Kumawat     | [medium.com/@PiyushKumawat](https://securitycipher.medium.com/)  |
 
 
 # People to follow on Youtube
