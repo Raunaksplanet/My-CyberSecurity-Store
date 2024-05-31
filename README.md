@@ -8,7 +8,14 @@
 - [Most Useful and Amazing CyberSec & Bug Bounty Books](#Books)
 - [Self Help Books](#self-help-books)
 - [Bug Bounty Material](#bug-bounty-material)
-- [Hackers to Follow on Social Media](#People-To-Follow-On-Social-Media)
+     	- My Methodology (shit & outdated)
+     	- Bug-Bounty Tools
+	- Customized Tools by me
+	- Vulnerability Report format
+	- Bug-Bounty Platforms
+	- People To Follow On Social Media
+	- [Most used browser extension while Bug-Bounty](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Most-used-Extension.md)
+	- [Hackers to Follow on Social Media](#People-To-Follow-On-Social-Media)
 - [Some more important topics for Cyber Security](#Some-more-important-topics-for-cyber-security)
      -  Learn Linux
      - Learn Programming Languages
