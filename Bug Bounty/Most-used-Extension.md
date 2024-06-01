@@ -9,6 +9,7 @@
 | Bulk URL Opener               | Firefox       | [Bulk URL Opener](https://addons.mozilla.org/en-US/firefox/addon/bulkurlopener/)                    |
 | Temp Mail                     | Firefox       | [Temp Mail](https://addons.mozilla.org/en-US/firefox/addon/temp-mail/)                              |
 | JS Beautify CSS HTML          | Firefox       | [JS Beautify CSS HTML](https://addons.mozilla.org/en-US/firefox/addon/js-beautify-css-html/)        |
-| BAF HDNHJ NLCDBJ CDCNAFH DCPHH NFNH JC | Chrome        | [BAF HDNHJ NLCDBJ CDCNAFH DCPHH NFNH JC](https://chromewebstore.google.com/detail/bafhdnhjnlcdbjcdcnafhdcphhnfnhjc) |
+| TruffleHog                    | Chrome        | [TruffleHog](https://chromewebstore.google.com/detail/bafhdnhjnlcdbjcdcnafhdcphhnfnhjc) |
 | Code Formatter                | Chrome        | [Code Formatter](https://chromewebstore.google.com/detail/code-formatter/njpgcnaadikbannefjibknjopmogeidm) |
 | Freedium Extension            | Chrome        | [Freedium Extension](https://chrome.google.com/webstore/detail/freedium-extension/nadnhbkjnmmgecnkecpcjbbobkkmihmh/reviews) |
+| Free VPN                      | Chrome        | [Free VPN](https://chromewebstore.google.com/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en) |
