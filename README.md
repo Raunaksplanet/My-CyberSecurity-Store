@@ -8,8 +8,9 @@
 - [Most Useful and Amazing CyberSec & Bug Bounty Books](#Books)
 - [Self Help Books](#self-help-books)
 - [Bug Bounty Material](#bug-bounty-material)
-     	- My Methodology (shit & outdated)
-     	- Bug-Bounty Tools
+
+ 	- My Methodology (shitty & outdated)
+  	- Bug-Bounty Tools
 	- Customized Tools by me
 	- Vulnerability Report format
 	- Bug-Bounty Platforms
