@@ -28,7 +28,7 @@
      -  Learn BurpSuite
      -  Common CyberSec Tools
 - [Dumps and Leaks](https://github.com/Raunaksplanet/My-CS-Store/tree/main/Dumps%20%26%20Leaks)
-- [Content Management System (CMS Pentesting)](https://github.com/Raunaksplanet/My-CS-Store/blob/main/CMS%20Pentesting/readme.md)
+- [CMS(Content Management System) Pentesting](https://github.com/Raunaksplanet/My-CS-Store/blob/main/CMS%20Pentesting/readme.md)
 - Comptia Exam's Topic
 - Basic Linux & Windows Commands
 - Learn programming & Scripting Languages for CyberSec
