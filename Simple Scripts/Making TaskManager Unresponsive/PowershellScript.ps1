@@ -1,0 +1,1 @@
+wmic process where name="Taskmgr.exe" CALL setpriority "idle"
