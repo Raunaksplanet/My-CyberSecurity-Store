@@ -156,6 +156,7 @@
 | 38 | Webbots, Spiders, and Screen Scrapers | [Webbots, Spiders, and Screen Scrapers](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Webbots%2C%20Spiders%2C%20and%20Screen%20Scrapers.pdf) | - |
 | 39 | mining-social-media | [mining-social-media](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/mining-social-media.pdf) | Yes |
 | 40 | How-Linux-Works | [How-Linux-Works](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/How-Linux-Works.pdf) | Yes |
+| 41 | Mastering Modern Web Penetration Testing | [Mastering Modern Web Penetration Testing](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Books/Mastering%20Modern%20Web%20Penetration%20Testing.pdf) | Yes |
 
 # Self-Help Books
 
