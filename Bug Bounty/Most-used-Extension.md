@@ -15,3 +15,4 @@
 | Free VPN                      | Chrome        | [Free VPN](https://chromewebstore.google.com/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en) |
 | BuiltWith                     | Chrome        | [BuiltWith](https://chromewebstore.google.com/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en) |
 | Wappalyzer                    | Chrome        | [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) |
+| Retire.js                     | Chrome        | [Retire.js](https://chromewebstore.google.com/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom?hl=en) |
