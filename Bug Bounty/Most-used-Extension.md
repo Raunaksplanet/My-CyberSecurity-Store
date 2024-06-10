@@ -13,3 +13,5 @@
 | Code Formatter                | Chrome        | [Code Formatter](https://chromewebstore.google.com/detail/code-formatter/njpgcnaadikbannefjibknjopmogeidm) |
 | Freedium Extension            | Chrome        | [Freedium Extension](https://chrome.google.com/webstore/detail/freedium-extension/nadnhbkjnmmgecnkecpcjbbobkkmihmh/reviews) |
 | Free VPN                      | Chrome        | [Free VPN](https://chromewebstore.google.com/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en) |
+| BuiltWith                     | Chrome        | [BuiltWith](https://chromewebstore.google.com/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en) |
+| Wappalyzer                    | Chrome        | [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) |
