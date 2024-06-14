@@ -17,3 +17,5 @@
 | Wappalyzer                    | Chrome        | [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) |
 | WhatRuns                      | Chrome        | [WhatRuns](https://chromewebstore.google.com/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) |
 | Retire.js                     | Chrome        | [Retire.js](https://chromewebstore.google.com/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom?hl=en) |
+| Cookie Extractor              | Chrome        | [Cookie Extractor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm) |
+| Wayback Machine               | Chrome        | [Wayback Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) |
