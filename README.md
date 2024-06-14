@@ -17,6 +17,7 @@
 	- People To Follow On Social Media
 	- [Most used browser extension while Bug-Bounty](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Bug%20Bounty/Most-used-Extension.md)
 	- [Hackers to Follow on Social Media](#People-To-Follow-On-Social-Media)
+ 	- [Best Writeups website for Security Researchers](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Best%20Writeups%20Websites/readme.md) 
 - [Some more important topics for Cyber Security](#Some-more-important-topics-for-cyber-security)
      -  Learn Linux
      - Learn Programming Languages
