@@ -19,3 +19,6 @@
 | Retire.js                     | Chrome        | [Retire.js](https://chromewebstore.google.com/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom?hl=en) |
 | Cookie Extractor              | Chrome        | [Cookie Extractor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm) |
 | Wayback Machine               | Chrome        | [Wayback Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) |
+| EXIF Data Viwer               | Chrome        | [EXIF Data Viwer](https://chromewebstore.google.com/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm?hl=en) |
+| Shodan                        | Chrome        | [Shodan](https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?hl=en-US) |
+| S3 Bucket List                | Chrome        | [S3 Bucket List](https://github.com/AlecBlance/S3BucketList) |
