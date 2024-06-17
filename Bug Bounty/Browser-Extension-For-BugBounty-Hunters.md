@@ -22,3 +22,5 @@
 | EXIF Data Viwer               | Chrome        | [EXIF Data Viwer](https://chromewebstore.google.com/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm?hl=en) |
 | Shodan                        | Chrome        | [Shodan](https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?hl=en-US) |
 | S3 Bucket List                | Chrome        | [S3 Bucket List](https://github.com/AlecBlance/S3BucketList) |
+| Ublock Origin                 | Chrome        | [Ublock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) |
+| Resources Saver               | Chrome        | [Resources Saver](https://chromewebstore.google.com/detail/resources-saver/nlfcijlhljpenllloeheihmhoobeefpc) |
