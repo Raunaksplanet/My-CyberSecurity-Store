@@ -9,6 +9,7 @@
 | Bulk URL Opener               | Firefox       | [Bulk URL Opener](https://addons.mozilla.org/en-US/firefox/addon/bulkurlopener/)                    |
 | Temp Mail                     | Firefox       | [Temp Mail](https://addons.mozilla.org/en-US/firefox/addon/temp-mail/)                              |
 | JS Beautify CSS HTML          | Firefox       | [JS Beautify CSS HTML](https://addons.mozilla.org/en-US/firefox/addon/js-beautify-css-html/)        |
+| Multi-Account Containers      | Firefox       | [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) |
 | TruffleHog                    | Chrome        | [TruffleHog](https://chromewebstore.google.com/detail/bafhdnhjnlcdbjcdcnafhdcphhnfnhjc) |
 | Code Formatter                | Chrome        | [Code Formatter](https://chromewebstore.google.com/detail/code-formatter/njpgcnaadikbannefjibknjopmogeidm) |
 | Freedium Extension            | Chrome        | [Freedium Extension](https://chrome.google.com/webstore/detail/freedium-extension/nadnhbkjnmmgecnkecpcjbbobkkmihmh/reviews) |
