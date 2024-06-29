@@ -1,3 +1,7 @@
+# Note
+This project is shifted [Here](https://oreobiscuit.gitbook.io/untitled) on GitBook but this repository still continue. 
+please check out my GitBook aswell.
+
 # My Cyber Security Store
 
     These are my Cyber Security notes that I have gathered from various sources, 
