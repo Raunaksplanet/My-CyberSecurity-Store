@@ -1,0 +1,46 @@
+Client - server model 
+what is proxy ?
+logical port adressing 
+vulnerlity 
+exploit 
+How internet works ?
+How nmap works ?
+what is payload ? (meta spoloit) what is metasploit ?
+what is the use of Host headers ?
+what is a domain ?
+what is domain name ?
+How metasploit works in backend while eploitation ?
+after selecting module  what is running in back round ?
+what is going behid the seen when we do ping ?
+types of modules in meta spolit ?
+what is ssrf ? how it works ? what is the prevention ?
+CSRF ? what is it prevention ? hwo it works ?
+diff rence  between ssrf and csrf 
+what is xss ?working and prevention?
+same origin policy / cors resorce. headers in same origin ?
+what is the command smb ? smb server what is smb ?
+what is smbclient ?
+types of sqli ? what is sqli ?
+out band and in bound sqli ?
+blind and boolean sqli diffrence ?
+what is port forwarding?
+http headers in cors ?
+what is use of requenceer
+what is sequencer and comparer ? 
+JWT what is signature in  JWT ?
+SQLI to RCE ? report pentest reports 
+sqli in jwt pentest?
+first order and second order sqli ?
+normal sqli is first order .. difference between first and second order 
+reflect xss and DOM based XSS.  diffrece how it works ? and prevention ?
+LFI and directory traversal difference
+how to sqli in cookie ? pentest report 
+how to run benchmark on exec ?
+difference between flask and JWT
+why we use them ? jwt and flask
+what is prototype pollution ? what the types ? 
+reflected xss via prototype pollution report . bornunique personal website
+what is self xss ?
+risk threat and vulnerability difference. 
+input validation 
+CIA traig
