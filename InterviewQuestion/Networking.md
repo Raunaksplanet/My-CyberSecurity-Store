@@ -32,3 +32,66 @@
 23. What steps would you take to identify the source of a network breach?
 24. How would you secure data in transit over an untrusted network?
 25. What is the role of a DMZ in network security?
+
+# Networking Concepts and Topics
+
+1. **OSI Model**  
+2. **TCP/IP Model**  
+3. **Protocols** (TCP, UDP, HTTP, HTTPS, FTP, DNS, etc.)  
+4. **IP Address** (IPv4, IPv6)  
+5. **Subnetting**  
+6. **DNS**  
+7. **DHCP**  
+8. **NAT** (Network Address Translation)  
+9. **MAC Address**  
+10. **ARP** (Address Resolution Protocol)  
+11. **ICMP** (Internet Control Message Protocol)  
+12. **Ports** (e.g., 80, 443, 22)  
+13. **Firewalls**  
+14. **VLAN** (Virtual Local Area Network)  
+15. **VPN** (Virtual Private Network)  
+16. **Proxy**  
+17. **Load Balancer**  
+18. **Switch**  
+19. **Router**  
+20. **Gateway**  
+21. **Packet Sniffing**  
+22. **DNS Spoofing**  
+23. **IP Spoofing**  
+24. **DDoS** (Distributed Denial of Service)  
+25. **SSL/TLS** (Secure Sockets Layer/Transport Layer Security)  
+26. **SSH** (Secure Shell)  
+27. **Honeypot**  
+28. **IDS/IPS** (Intrusion Detection/Prevention System)  
+29. **WAF** (Web Application Firewall)  
+30. **Zero Trust Architecture**  
+31. **Ping**  
+32. **Traceroute**  
+33. **Bandwidth**  
+34. **Latency**  
+35. **Throughput**  
+36. **QoS** (Quality of Service)  
+37. **Packet Filtering**  
+38. **BGP** (Border Gateway Protocol)  
+39. **Wi-Fi Standards** (802.11a/b/g/n/ac/ax)  
+40. **RDP** (Remote Desktop Protocol)  
+41. **MPLS** (Multi-Protocol Label Switching)  
+42. **CDN** (Content Delivery Network)  
+43. **Honeynet**  
+44. **Reverse Proxy**  
+45. **Stateful vs Stateless Protocols**  
+46. **Packet Fragmentation**  
+47. **OS Fingerprinting**  
+48. **SYN Flood**  
+49. **ACK Scan**  
+50. **DNS Amplification**  
+51. **IPv6 Tunneling**  
+52. **Port Forwarding**  
+53. **Packet Switched Networks**  
+54. **Circuit Switched Networks**  
+55. **TTL** (Time to Live)  
+56. **MTU** (Maximum Transmission Unit)  
+57. **Data Encapsulation**  
+58. **Broadcast Domain**  
+59. **Collision Domain**  
+60. **Network Segmentation**  
