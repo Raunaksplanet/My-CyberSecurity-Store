@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <style>
+        h2 {
+            color: white;
+        }
+
+        body {
+            background-color: #414141;
+        }
+
+        img {
+            /* border: white; */
+            border-radius: 10%;
+            padding-left: 9%;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>this is very cool image</h2>
+    <img id="verycool"
+        src="https://scontent.fjai1-1.fna.fbcdn.net/v/t39.30808-6/451434612_484946894134284_6849503762413220896_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=JoksOBxX6YgQ7kNvgHows-B&_nc_zt=23&_nc_ht=scontent.fjai1-1.fna&_nc_gid=AykvCwmCq2fWc8KZ09zVpQf&oh=00_AYCeDS2_Kb5yuBOteOICyOHwNac6Doc2e7sZ2g40PCsZZA&oe=67854933"
+        alt="this is cool" width="100">
+</body>
+<script>
+    // document.getElementById("verycool").onclick = function(){
+    //     alert("hmmmh")
+    // }
+
+    let dns = 0
+    document.getElementById("verycool").addEventListener("click", function (e) {
+        if (dns === 0) {
+            document.getElementById("verycool").style.opacity = "0%";
+            dns = 1
+        } else {
+            document.getElementById("verycool").style.opacity = "100%";
+            dns = 0
+        }
+    }, false)
+
+
+</script>
+
+</html>
