@@ -124,9 +124,9 @@ print(df)
 # ----------------------------
 
 # Creating a new column 'salary_per_experience' by dividing salary by experience
-df['salary_per_experience'] = df['salary'] / df['experience']
-print("\nDataFrame with new feature 'salary_per_experience':")
-print(df)
+# df['salary_per_experience'] = df['salary'] / df['experience']
+# print("\nDataFrame with new feature 'salary_per_experience':")
+# print(df)
 
 # ----------------------------
 # Working with Time Series Data
