@@ -1,0 +1,41 @@
+jsfinder -l <file>
+cat <file> | getjs -complete | anew output.txt
+---------------------------------------------------------------------
+mkdir -p js_files && while read -r url; do wget -P js_files "$(echo "$url" | tr -d '\r')"; done < main.txt
+pprettier --write jsfiles/*.js*
+https://github.com/Raunaksplanet/back-me-up-BB-Tools
+
+fetch( axios.post( XMLHttpRequest
+---------------------------------------------------------------------
+puredns resolve subdomains.txt --resolvers-trusted --threads 100 -w resolved.txt
+subfinder -d <target-domain> | alterx | dnsx 
+---------------------------------------------------------------------
+dirsearch -u "" -e * -t 50 -F --random-agent --follow-redirects --full-url --recursive --exclude-status=404
+dirsearch -u "" -f -F -x 403,404
+cat 403_subs.txt | waybackurls <- uniq
+awk '{print $1}' 
+---------------------------------------------------------------------
+• Search Engine
+1. Shodan
+2. Censys
+3. Fofa
+---------------------------------------------------------------------
+Github Dorking
+/[A-Za-z0–9-_]+\.example\.com\/+/ AND (apikey OR api_key OR secret OR password OR credentials OR token OR bearer OR authorization OR client_secret OR client_id OR access_token OR private_key OR ssh-rsa OR ssh-dss OR -----BEGIN OR -----END OR .env OR config OR aws_access_key_id OR aws_secret_access_key OR db_password OR ftp_password OR smtp_password OR auth_token OR bearer_token OR oauth_token OR jwt OR session_token OR s3.amazonaws.com OR s3:// OR .s3.amazonaws.com OR s3-external- OR s3.dualstack. OR s3-website- OR s3.ap OR s3.us OR s3.eu OR s3.ca OR s3.sa)
+
+# second level domain
+/[A-Za-z0-9-_]+\.[A-Za-z0-9-_]+\.example\.com\//
+
+# third level domain
+/[A-Za-z0-9-_]+\.[A-Za-z0-9-_]+\.[A-Za-z0-9-_]+\.example\.com\//
+---------------------------------------------------------------------
+Single label + TLD (e.g., security@acme.io):
+/\bsecurity@[A-Za-z0-9-]+\.[A-Za-z]{2,}\b/
+
+Allow multi-label domains (e.g., security@acme.co.uk):
+/\bsecurity@(?:[A-Za-z0-9-]+\.)+[A-Za-z]{2,}\b/
+
+If you also want to allow underscores in the label (looser):
+/\bsecurity@(?:[A-Za-z0-9_-]+\.)+[A-Za-z]{2,}\b/
+---------------------------------------------------------------------
+/[A-Za-z0-9._%+-]+@thinkst\.com/
