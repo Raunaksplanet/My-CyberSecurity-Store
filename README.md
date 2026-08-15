@@ -284,7 +284,7 @@ please check out my GitBook aswell.
 |       | DirSearch                   | [https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)                         |
 |       | hydra                       | [https://github.com/vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra)                   |
 |       | changeme                    | [https://github.com/ztgrace/changeme](https://github.com/ztgrace/changeme)                                 |
-|       | truffleHog                  | [https://github.com/dxa4481/truffleHog](https://github.com/dxa4481/truffleHog)                             |
+|       | truffleHog                  | [https://github.com/trufflesecurity/trufflehog](https://github.com/dxa4481/truffleHog)                             |
 | 5     | **Google Dorks**            |                                                                                                           |
 |       | pentest tools               | [https://pentest-tools.com/information-gathering/google-hacking](https://pentest-tools.com/information-gathering/google-hacking) |
 |       | taksec                      | [https://taksec.github.io/google-dorks-bug-bounty/](https://taksec.github.io/google-dorks-bug-bounty/) |
@@ -364,6 +364,7 @@ please check out my GitBook aswell.
 - [People to Follow on Medium](https://github.com/Raunaksplanet/My-CS-Store/tree/main/Hackers%20To%20Follow)
 
 - [People to Follow on YouTube](https://github.com/Raunaksplanet/My-CS-Store/tree/main/Hackers%20To%20Follow)
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 
 
